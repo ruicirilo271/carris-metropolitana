@@ -1,0 +1,38 @@
+<!doctype html>
+<html lang="pt">
+<head>
+<meta charset="utf-8"/>
+<meta name="viewport" content="width=device-width,initial-scale=1"/>
+<title>Chegada do Autocarro — Neon Pro</title>
+<link rel="stylesheet" href="/static/style.css"/>
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"/>
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+</head>
+<body>
+<main class="card">
+  <div class="container">
+    <div class="sidebar">
+      <h1>Quando chega o autocarro?</h1>
+      <label>Linha (ex: 101):</label>
+      <input id="line" placeholder="Ex: 101"/>
+      <button id="findBtn">Encontrar paragens</button>
+      <section id="status" class="muted"></section>
+      <ul id="stopsList"></ul>
+      <div id="arrivalBox" style="display:none;">
+        <h2>Estimativa de chegada</h2>
+        <div id="arrivalInfo"></div>
+        <button id="refreshArrival">Actualizar</button>
+      </div>
+    </div>
+    <div id="mapContainer"><div id="map"></div></div>
+  </div>
+</main>
+<script src="/static/script.js"></script>
+</body>
+</html>
+
+
+
+
+
+

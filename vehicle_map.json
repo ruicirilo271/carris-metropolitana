@@ -1,0 +1,4397 @@
+{
+  "44|12666": {
+    "real_number": "4702_0",
+    "stop": "ALCOCHETE (AV RESTAURAÇÃO) EB MANUEL I",
+    "route": "4702_0"
+  },
+  "44|12638": {
+    "real_number": "4001_0",
+    "stop": "R DOS DAMASCOS",
+    "route": "4001_0"
+  },
+  "44|12653": {
+    "real_number": "4702_0",
+    "stop": "Urbanização Villas do Duque (Fte Espaço Comercial)",
+    "route": "4702_0"
+  },
+  "44|12530": {
+    "real_number": "4501_0",
+    "stop": "SAMOUCO (EM 501) PORTO VELHO FÁB BOLOS",
+    "route": "4501_0"
+  },
+  "44|12525": {
+    "real_number": "4504_0",
+    "stop": "ALCOCHETE (EM 502) VILA SOL",
+    "route": "4504_0"
+  },
+  "44|12742": {
+    "real_number": "4702_0",
+    "stop": "ALCOCHETE (AV CANTO DO PINHEIRO 698)",
+    "route": "4702_0"
+  },
+  "44|12577": {
+    "real_number": "4600_0",
+    "stop": "AV CANTO DO PINHEIROXR FERNANDO PESSOA",
+    "route": "4600_0"
+  },
+  "44|12538": {
+    "real_number": "4600_0",
+    "stop": "R 25 ABRIL (EM501) X PASSEIO CARAVELAS",
+    "route": "4600_0"
+  },
+  "44|12632": {
+    "real_number": "4002_0",
+    "stop": "Rua Padre Cruz 3",
+    "route": "4002_0"
+  },
+  "44|12693": {
+    "real_number": "4504_0",
+    "stop": "Rua do Vale da Fonte Coberta (Central Distribuição)",
+    "route": "4504_0"
+  },
+  "43|2230": {
+    "real_number": "3022_0",
+    "stop": "AV D NUNO ÁLV PEREIRA PÇA S J BAPTISTA",
+    "route": "3022_0"
+  },
+  "43|2029": {
+    "real_number": "3506_0",
+    "stop": "ALMADA (R RAINHA D LEONOR) PARQUE URBANO",
+    "route": "3506_0"
+  },
+  "43|2307": {
+    "real_number": "3702_0",
+    "stop": "ALMADA (R CAETANO M BATALHA N9)",
+    "route": "3702_0"
+  },
+  "43|2120": {
+    "real_number": "3703_0",
+    "stop": "COVA PIEDADE R LIBERDADE 56C (URPICA)",
+    "route": "3703_0"
+  },
+  "43|2039": {
+    "real_number": "3026_0",
+    "stop": "COVA PIEDADE R LIBERDADE 63 (ROTUNDA)",
+    "route": "3026_0"
+  },
+  "43|2386": {
+    "real_number": "3717_0",
+    "stop": "CV PIEDADE R SAMEIRO ANTUNES FARMÁCIA",
+    "route": "3717_0"
+  },
+  "43|2265": {
+    "real_number": "3024_0",
+    "stop": "AV TORRADO DA SILVA BOA ESPERANÇA",
+    "route": "3024_0"
+  },
+  "43|2037": {
+    "real_number": "3026_0",
+    "stop": "COVA PIEDADE R COOPERATIVA PIEDENSE 71",
+    "route": "3026_0"
+  },
+  "43|2019": {
+    "real_number": "3023_0",
+    "stop": "FEIJÓ (ALMADA FÓRUM)",
+    "route": "3023_0"
+  },
+  "43|2356": {
+    "real_number": "3517_0",
+    "stop": "Bº B GONÇALVES (R ARY SANTOS 4B)",
+    "route": "3517_0"
+  },
+  "43|2036": {
+    "real_number": "3506_0",
+    "stop": "R AMADEU SOUSA CARDOSO (ESCOLA)",
+    "route": "3506_0"
+  },
+  "43|2266": {
+    "real_number": "3003_0",
+    "stop": "Bº GONÇALVES R ALM NEG 4 (ESCOLA)",
+    "route": "3003_0"
+  },
+  "43|2316": {
+    "real_number": "3525_0",
+    "stop": "COVA PIEDADE (LGO ANTERO QUENTAL 11)",
+    "route": "3525_0"
+  },
+  "43|2023": {
+    "real_number": "3026_1",
+    "stop": "COVA PIEDADE (AV RAINHA D LEONOR 59)",
+    "route": "3026_1"
+  },
+  "43|2234": {
+    "real_number": "3003_0",
+    "stop": "COVA PIEDADE (AV RAINHA D LEONOR 13)",
+    "route": "3003_0"
+  },
+  "43|2224": {
+    "real_number": "3013_0",
+    "stop": "R D SANCHO I 23 (EXTERNATO/ C SAÚDE)",
+    "route": "3013_0"
+  },
+  "43|2276": {
+    "real_number": "3024_0",
+    "stop": "VALE FIGUEIRA R DR A ARAÚJO (ESCOLA)",
+    "route": "3024_0"
+  },
+  "43|2252": {
+    "real_number": "3004_0",
+    "stop": "VALE FIGUEIRA R DR A ARAÚJO (ESCOLA)",
+    "route": "3004_0"
+  },
+  "43|2311": {
+    "real_number": "3516_0",
+    "stop": "VL FIGUEIRA (R VL FIGUEIRA) POSTO ABAST",
+    "route": "3516_0"
+  },
+  "43|2302": {
+    "real_number": "3516_0",
+    "stop": "VL FETAL ESTR BELA VISTA (X) R CRIS LOPES",
+    "route": "3516_0"
+  },
+  "43|2238": {
+    "real_number": "3004_0",
+    "stop": "VALE FETAL ESTR BELA VISTA 186 (ESCOLA)",
+    "route": "3004_0"
+  },
+  "43|2004": {
+    "real_number": "3043_0",
+    "stop": "PALHAIS R AZINHAGA CARRETA 9 (ROTUNDA)",
+    "route": "3043_0"
+  },
+  "43|2024": {
+    "real_number": "3019_0",
+    "stop": "ALAMEDA AMÁLIA RODRIGUES",
+    "route": "3019_0"
+  },
+  "43|2288": {
+    "real_number": "3012_1",
+    "stop": "CH CAPARICA (R PEDRO COSTA 1284) VL BEM",
+    "route": "3012_1"
+  },
+  "43|2322": {
+    "real_number": "3716_0",
+    "stop": "CH CAPARICA (R PEDRO COSTA) TREMOCEIRA",
+    "route": "3716_0"
+  },
+  "43|2314": {
+    "real_number": "3716_0",
+    "stop": "MARISOL (R ANTÓNIO SOARES N74)",
+    "route": "3716_0"
+  },
+  "43|2082": {
+    "real_number": "3042_0",
+    "stop": "AV MAR (X) R JOSÉ MALHOA (ROT)",
+    "route": "3042_0"
+  },
+  "43|2281": {
+    "real_number": "3507_0",
+    "stop": "Bº F FOMENTO R 3 VALES (ESCOLA BÁSICA)",
+    "route": "3507_0"
+  },
+  "43|2295": {
+    "real_number": "3007_0",
+    "stop": "Bº F FOMENTO R 3 VALES (ESCOLA BÁSICA)",
+    "route": "3007_0"
+  },
+  "43|2282": {
+    "real_number": "3007_0",
+    "stop": "Bº F FOMENTO (R 3 VALES N65)",
+    "route": "3007_0"
+  },
+  "43|2278": {
+    "real_number": "3009_0",
+    "stop": "MTE CAP R TRAB RURAIS (ROTUNDA)",
+    "route": "3009_0"
+  },
+  "43|2249": {
+    "real_number": "3021_0",
+    "stop": "MONTE CAPARICA (FCT) ROTUNDA",
+    "route": "3021_0"
+  },
+  "43|2084": {
+    "real_number": "3034_0",
+    "stop": "CASAS VELHAS (DIA A DIA)",
+    "route": "3034_0"
+  },
+  "43|2269": {
+    "real_number": "3705_0",
+    "stop": "CH CAPAR R OLIVEIRA FEIJÃO (IGREJA)",
+    "route": "3705_0"
+  },
+  "43|2325": {
+    "real_number": "3017_0",
+    "stop": "CH CAPARICA R DR OLIVEIRA FEIJÃO6(ROT)",
+    "route": "3017_0"
+  },
+  "43|2038": {
+    "real_number": "3008_0",
+    "stop": "CH CAPARICA (R ANTÓNIO ANDRADE) CENTRO",
+    "route": "3008_0"
+  },
+  "43|2121": {
+    "real_number": "3716_0",
+    "stop": "BOTEQUIM (AV ELIAS GARCIA 910)",
+    "route": "3716_0"
+  },
+  "43|2298": {
+    "real_number": "3012_0",
+    "stop": "MTE CAPARICA IC32 (X) R AREEIRO",
+    "route": "3012_0"
+  },
+  "43|517": {
+    "real_number": "3025_0",
+    "stop": "MONTE CAPARICA (FCT) ROTUNDA",
+    "route": "3025_0"
+  },
+  "43|2123": {
+    "real_number": "3601_0",
+    "stop": "MTE CAP AV T LOROSAE (X) PORTO BRANDÃO",
+    "route": "3601_0"
+  },
+  "43|746": {
+    "real_number": "3009_0",
+    "stop": "EN10-1 (QTA TORRINHA) GRAND AUDITÓRIO",
+    "route": "3009_0"
+  },
+  "43|2274": {
+    "real_number": "3021_0",
+    "stop": "EN10-1 (QTA RIBEIRO) SANTA",
+    "route": "3021_0"
+  },
+  "43|2020": {
+    "real_number": "3033_0",
+    "stop": "TORRE CAPARICA (EN 10-1) (X) FACULDADE",
+    "route": "3033_0"
+  },
+  "43|2338": {
+    "real_number": "3040_0",
+    "stop": "Cacilhas (Terminal) P2",
+    "route": "3040_0"
+  },
+  "43|2273": {
+    "real_number": "3012_1",
+    "stop": "ALMADA (R D JOÃO CASTRO N78)",
+    "route": "3012_1"
+  },
+  "43|2245": {
+    "real_number": "3030_0",
+    "stop": "CH CAPARICA R PEDRO COSTA 13 (ESCOLA)",
+    "route": "3030_0"
+  },
+  "43|2361": {
+    "real_number": "3505_0",
+    "stop": "Cacilhas (Terminal) P6",
+    "route": "3505_0"
+  },
+  "43|2320": {
+    "real_number": "3709_0",
+    "stop": "COSTA CAPARICA (IC 20) CEMITÉRIO",
+    "route": "3709_0"
+  },
+  "43|2251": {
+    "real_number": "3009_0",
+    "stop": "Cacilhas (Terminal) P1",
+    "route": "3009_0"
+  },
+  "43|2253": {
+    "real_number": "3011_0",
+    "stop": "COSTA CAP AV AF ALBUQ 8A (X) R MACAU",
+    "route": "3011_0"
+  },
+  "43|2326": {
+    "real_number": "3011_0",
+    "stop": "C CAP AV OCEANO (X) R O E SERPA (ESCOLA)",
+    "route": "3011_0"
+  },
+  "43|2235": {
+    "real_number": "3041_0",
+    "stop": "Avenida Aliança Povo MFA 1F",
+    "route": "3041_0"
+  },
+  "43|2275": {
+    "real_number": "3041_0",
+    "stop": "LARANJEIRO (R ISID FERREIRA) FARMÁCIA",
+    "route": "3041_0"
+  },
+  "43|2350": {
+    "real_number": "3040_1",
+    "stop": "FEIJÓ (MERCADO LEVANTE) AV DR ANT ELVAS",
+    "route": "3040_1"
+  },
+  "43|2081": {
+    "real_number": "3504_0",
+    "stop": "VL MOURELOS R ANTÓNIO CALADO (ROTUNDA)",
+    "route": "3504_0"
+  },
+  "43|2237": {
+    "real_number": "3017_0",
+    "stop": "SOBREDA (EN10-1) QTA DA CANEIRA",
+    "route": "3017_0"
+  },
+  "43|2300": {
+    "real_number": "3041_0",
+    "stop": "ALTO ÍNDIO (ESTR ALTO ÍNDIO 2)",
+    "route": "3041_0"
+  },
+  "43|2017": {
+    "real_number": "3504_0",
+    "stop": "SOBREDA AV REPÚBLICA (C C V ATLÂNTICO)",
+    "route": "3504_0"
+  },
+  "43|2028": {
+    "real_number": "3027_0",
+    "stop": "SOBREDA (EN10-1 7A) Bº S JOÃO",
+    "route": "3027_0"
+  },
+  "43|2246": {
+    "real_number": "3040_0",
+    "stop": "VL FIG R VL FIGUEIRA (X) R LUSÍADAS",
+    "route": "3040_0"
+  },
+  "43|2283": {
+    "real_number": "3040_1",
+    "stop": "VALE FETALR SIDÓNIO PAIS (X) TR WANDA R",
+    "route": "3040_1"
+  },
+  "43|2247": {
+    "real_number": "3024_0",
+    "stop": "Av. Dr. Aresta Branco (X) Rua Ercília Costa",
+    "route": "3024_0"
+  },
+  "43|2202": {
+    "real_number": "3012_0",
+    "stop": "RUA DO AREEIRO (FRT A33)",
+    "route": "3012_0"
+  },
+  "43|2305": {
+    "real_number": "3507_0",
+    "stop": "SOBREDA EN10-1 X R QTA FRANCESA 4",
+    "route": "3507_0"
+  },
+  "43|2002": {
+    "real_number": "3023_0",
+    "stop": "SOBREDA (EN10-1) 202 TEXUGO (ROTUNDA)",
+    "route": "3023_0"
+  },
+  "43|2041": {
+    "real_number": "3525_0",
+    "stop": "FEIJÓ (R OLIVEIRA MARTINS 8)",
+    "route": "3525_0"
+  },
+  "43|2260": {
+    "real_number": "3514_0",
+    "stop": "LARANJEIRO (AV 23 JULHO) TST",
+    "route": "3514_0"
+  },
+  "43|2114": {
+    "real_number": "3536_0",
+    "stop": "LARANJEIRO (AV 23 JULHO) TST",
+    "route": "3536_0"
+  },
+  "43|2244": {
+    "real_number": "3023_0",
+    "stop": "AV PROF RUY LUIS GOMES",
+    "route": "3023_0"
+  },
+  "43|2333": {
+    "real_number": "3717_0",
+    "stop": "LARANJEIRO (R D MANUEL 11) ESTACIONA",
+    "route": "3717_0"
+  },
+  "43|2218": {
+    "real_number": "3717_0",
+    "stop": "LARANJEIRO (R BENTO JESUS CARAÇA 48)",
+    "route": "3717_0"
+  },
+  "43|2257": {
+    "real_number": "3024_0",
+    "stop": "VL FIGUEIRA R HERMÍNIA SILVA (ESCOLA)",
+    "route": "3024_0"
+  },
+  "43|2287": {
+    "real_number": "3013_0",
+    "stop": "FEIJÓ (MERCADO LEVANTE) AV DR ANT ELVAS",
+    "route": "3013_0"
+  },
+  "43|2263": {
+    "real_number": "3506_0",
+    "stop": "FEIJÓ (R CLUBE RECREAT FEIJÓ)",
+    "route": "3506_0"
+  },
+  "43|2381": {
+    "real_number": "3523_1",
+    "stop": "AV BELVERDE (X) AV PINHAL AROEIRA",
+    "route": "3523_1"
+  },
+  "43|2272": {
+    "real_number": "3507_0",
+    "stop": "MARISOL (R LOBITOS 57)",
+    "route": "3507_0"
+  },
+  "43|2013": {
+    "real_number": "3503_0",
+    "stop": "VL FIGUEIRA (EN10-1 KM 1 700)",
+    "route": "3503_0"
+  },
+  "43|2011": {
+    "real_number": "3515_0",
+    "stop": "SOBREDA (ESP CIDADÃO) JARDIM ZAGALOS",
+    "route": "3515_0"
+  },
+  "43|2010": {
+    "real_number": "3515_0",
+    "stop": "SOBREDA (R LIBERDADE 23) IGREJA",
+    "route": "3515_0"
+  },
+  "43|2034": {
+    "real_number": "3043_0",
+    "stop": "VL FIGUEIRA R QUINTA DA GRAÇA",
+    "route": "3043_0"
+  },
+  "43|2025": {
+    "real_number": "3504_0",
+    "stop": "RUA NUNO DE BRAGANÇA",
+    "route": "3504_0"
+  },
+  "43|2323": {
+    "real_number": "3525_0",
+    "stop": "PRAGAL (ESTR CASQUILHO) Bº MATADOURO",
+    "route": "3525_0"
+  },
+  "43|2327": {
+    "real_number": "3013_0",
+    "stop": "LARANJEIRO AV 23 JULHO (X) R ÁLAMOS",
+    "route": "3013_0"
+  },
+  "43|2328": {
+    "real_number": "3513_0",
+    "stop": "Cacilhas (Terminal) P8",
+    "route": "3513_0"
+  },
+  "43|2378": {
+    "real_number": "3526_1",
+    "stop": "PINHEIRINHO (R TREVO 4)",
+    "route": "3526_1"
+  },
+  "43|2317": {
+    "real_number": "3021_0",
+    "stop": "COSTA CAPARICA (TORRE DAS ARGOLAS) TER P2",
+    "route": "3021_0"
+  },
+  "43|2030": {
+    "real_number": "3027_0",
+    "stop": "Hosp. Garcia de Orta (Cons. Externas)",
+    "route": "3027_0"
+  },
+  "43|14": {
+    "real_number": "3005_0",
+    "stop": "Rua Serpa Pinto 2",
+    "route": "3005_0"
+  },
+  "43|2248": {
+    "real_number": "3025_0",
+    "stop": "PRAGAL (AV TORRADO SILVA) ESTAÇÃO",
+    "route": "3025_0"
+  },
+  "41|1303": {
+    "real_number": "1704_0",
+    "stop": "Av República 15A",
+    "route": "1704_0"
+  },
+  "41|1858": {
+    "real_number": "1501_0",
+    "stop": "R Bartolomeu Dias (Aqueduto)",
+    "route": "1501_0"
+  },
+  "41|1102": {
+    "real_number": "1517_0",
+    "stop": "Av do Brasil 6",
+    "route": "1517_0"
+  },
+  "41|1200": {
+    "real_number": "1717_0",
+    "stop": "Av Gen Humberto Delgado 1",
+    "route": "1717_0"
+  },
+  "41|1188": {
+    "real_number": "1717_0",
+    "stop": "Av Gen Humb Delgado (Supermercado)",
+    "route": "1717_0"
+  },
+  "41|1243": {
+    "real_number": "1005_0",
+    "stop": "Amadora (Estação) P4 Entrada Norte",
+    "route": "1005_0"
+  },
+  "41|1363": {
+    "real_number": "1003_0",
+    "stop": "Estr Serra Mira 31",
+    "route": "1003_0"
+  },
+  "41|1717": {
+    "real_number": "1008_0",
+    "stop": "Amadora Este (Metro) P2",
+    "route": "1008_0"
+  },
+  "41|1358": {
+    "real_number": "1703_0",
+    "stop": "R Vasco Lima Couto 10",
+    "route": "1703_0"
+  },
+  "41|1177": {
+    "real_number": "1003_0",
+    "stop": "R Moínho Galega 14",
+    "route": "1003_0"
+  },
+  "41|1338": {
+    "real_number": "1703_0",
+    "stop": "R Cesar Oliveira 8",
+    "route": "1703_0"
+  },
+  "41|308": {
+    "real_number": "1005_0",
+    "stop": "R 17 Setembro 45A - PSP",
+    "route": "1005_0"
+  },
+  "41|1322": {
+    "real_number": "1509_0",
+    "stop": "R D João V (X) R Pico",
+    "route": "1509_0"
+  },
+  "41|1164": {
+    "real_number": "1005_0",
+    "stop": "Casal da Mira (Centro Comercial) P4",
+    "route": "1005_0"
+  },
+  "41|1313": {
+    "real_number": "1707_0",
+    "stop": "R Nova York (Eb J Garcês)",
+    "route": "1707_0"
+  },
+  "42|2563": {
+    "real_number": "2601_0",
+    "stop": "R F Simoes Carneiro (Edif Areeiro)",
+    "route": "2601_0"
+  },
+  "41|1107": {
+    "real_number": "1720_0",
+    "stop": "R Elias Garcia 28C",
+    "route": "1720_0"
+  },
+  "41|331": {
+    "real_number": "1717_0",
+    "stop": "R Elias Garcia 15",
+    "route": "1717_0"
+  },
+  "41|1100": {
+    "real_number": "1707_0",
+    "stop": "R Elias Garcia (Hipermercado)",
+    "route": "1707_0"
+  },
+  "41|1701": {
+    "real_number": "1009_0",
+    "stop": "Amadora (Estação) P6 Entrada Sul",
+    "route": "1009_0"
+  },
+  "41|1326": {
+    "real_number": "1721_0",
+    "stop": "R Elias Garcia (Parque)",
+    "route": "1721_0"
+  },
+  "41|1910": {
+    "real_number": "1720_0",
+    "stop": "Amadora (Hosp Luz)",
+    "route": "1720_0"
+  },
+  "41|1314": {
+    "real_number": "1518_0",
+    "stop": "Av D Nuno Álv Pereira (C Emprego)",
+    "route": "1518_0"
+  },
+  "41|1295": {
+    "real_number": "1514_0",
+    "stop": "R Liberdade (X) R Tomás Kim",
+    "route": "1514_0"
+  },
+  "41|1329": {
+    "real_number": "1706_0",
+    "stop": "Brandoa (Alto)",
+    "route": "1706_0"
+  },
+  "41|1144": {
+    "real_number": "1011_1",
+    "stop": "R Paiã (Largo)",
+    "route": "1011_1"
+  },
+  "41|1851": {
+    "real_number": "1010_0",
+    "stop": "R Damião Góis 10",
+    "route": "1010_0"
+  },
+  "41|1106": {
+    "real_number": "1703_0",
+    "stop": "Prç Teófilo Braga (Alfornelos Metro)",
+    "route": "1703_0"
+  },
+  "41|1112": {
+    "real_number": "1506_0",
+    "stop": "Av Dom José (Supermercado)",
+    "route": "1506_0"
+  },
+  "41|1308": {
+    "real_number": "1502_0",
+    "stop": "Av Aviação Portuguesa 21",
+    "route": "1502_0"
+  },
+  "41|314": {
+    "real_number": "1715_0",
+    "stop": "EN 117 (Supermercado)",
+    "route": "1715_0"
+  },
+  "41|1114": {
+    "real_number": "1502_0",
+    "stop": "Estr Alfragide 82",
+    "route": "1502_0"
+  },
+  "41|1157": {
+    "real_number": "1714_0",
+    "stop": "Av José Gomes Ferreira 13",
+    "route": "1714_0"
+  },
+  "41|1857": {
+    "real_number": "1714_0",
+    "stop": "R Moínho Velho 3E",
+    "route": "1714_0"
+  },
+  "41|1333": {
+    "real_number": "1502_0",
+    "stop": "Av Aviação Portuguesa (Escola)",
+    "route": "1502_0"
+  },
+  "41|334": {
+    "real_number": "1502_0",
+    "stop": "Av Conde Oeiras 1",
+    "route": "1502_0"
+  },
+  "41|1866": {
+    "real_number": "1714_0",
+    "stop": "Av José Gomes Ferreira 13",
+    "route": "1714_0"
+  },
+  "41|1241": {
+    "real_number": "1713_0",
+    "stop": "Estr Zambujal (Pq Estacionamento)",
+    "route": "1713_0"
+  },
+  "41|315": {
+    "real_number": "1701_0",
+    "stop": "Estr Zambujal (Pq Estacionamento)",
+    "route": "1701_0"
+  },
+  "41|1350": {
+    "real_number": "1718_0",
+    "stop": "Estr Zambujal (Escolas)",
+    "route": "1718_0"
+  },
+  "41|1335": {
+    "real_number": "1704_0",
+    "stop": "Av Almeida Garrett 76",
+    "route": "1704_0"
+  },
+  "41|1161": {
+    "real_number": "1514_0",
+    "stop": "R Elias Garcia (X) Estr Salv Allende",
+    "route": "1514_0"
+  },
+  "41|1190": {
+    "real_number": "1514_0",
+    "stop": "R Elias Garcia 103",
+    "route": "1514_0"
+  },
+  "41|1355": {
+    "real_number": "1721_0",
+    "stop": "R Elias Garcia 88",
+    "route": "1721_0"
+  },
+  "41|1191": {
+    "real_number": "1508_0",
+    "stop": "Amadora Este (Metro) P4",
+    "route": "1508_0"
+  },
+  "42|2560": {
+    "real_number": "2605_0",
+    "stop": "Estr Águas Livres (X) A-da-beja",
+    "route": "2605_0"
+  },
+  "41|312": {
+    "real_number": "1510_0",
+    "stop": "R António Aurélio Cora Ferreira 10",
+    "route": "1510_0"
+  },
+  "41|1244": {
+    "real_number": "1706_0",
+    "stop": "R Liberdade 20A (Igreja Evangélica)",
+    "route": "1706_0"
+  },
+  "41|723": {
+    "real_number": "1509_0",
+    "stop": "R Fernando Maia X R Qta Fonte Santa",
+    "route": "1509_0"
+  },
+  "41|1301": {
+    "real_number": "1703_0",
+    "stop": "Largo 1º Maio",
+    "route": "1703_0"
+  },
+  "41|1163": {
+    "real_number": "1713_0",
+    "stop": "R Heróis Dadrá 18",
+    "route": "1713_0"
+  },
+  "41|1248": {
+    "real_number": "1718_0",
+    "stop": "Estr Almarjão (Rot Estr Mt Cabreira)",
+    "route": "1718_0"
+  },
+  "41|1853": {
+    "real_number": "1712_0",
+    "stop": "Av D José Policarpo (C Comercial)",
+    "route": "1712_0"
+  },
+  "41|1203": {
+    "real_number": "1709_0",
+    "stop": "Estr Principal Caneças 3",
+    "route": "1709_0"
+  },
+  "41|1366": {
+    "real_number": "1710_3",
+    "stop": "R Liberdade 3",
+    "route": "1710_3"
+  },
+  "41|1122": {
+    "real_number": "1709_0",
+    "stop": "R da Liberdade 14",
+    "route": "1709_0"
+  },
+  "41|313": {
+    "real_number": "1710_3",
+    "stop": "R Rosália Castro (X) Av Raúl Rego",
+    "route": "1710_3"
+  },
+  "41|1312": {
+    "real_number": "1712_0",
+    "stop": "Amadora (Estação) P8 Entrada Sul",
+    "route": "1712_0"
+  },
+  "41|1196": {
+    "real_number": "1713_0",
+    "stop": "R Bernardino Machado (Escola)",
+    "route": "1713_0"
+  },
+  "41|324": {
+    "real_number": "1004_0",
+    "stop": "Amadora (Estação) P3 Entrada Norte",
+    "route": "1004_0"
+  },
+  "41|1137": {
+    "real_number": "1502_0",
+    "stop": "Amadora (Estação) P5 Entrada Sul",
+    "route": "1502_0"
+  },
+  "41|1341": {
+    "real_number": "1011_1",
+    "stop": "Brandoa (Largo)",
+    "route": "1011_1"
+  },
+  "41|1864": {
+    "real_number": "1514_0",
+    "stop": "Av Marquês Pombal 25",
+    "route": "1514_0"
+  },
+  "41|1138": {
+    "real_number": "1510_0",
+    "stop": "R Elias Garcia (Parque)",
+    "route": "1510_0"
+  },
+  "44|12513": {
+    "real_number": "4600_0",
+    "stop": "BARREIRO (AV BOCAGE) T L P",
+    "route": "4600_0"
+  },
+  "44|12555": {
+    "real_number": "4600_0",
+    "stop": "Avenida da Liberdade 17",
+    "route": "4600_0"
+  },
+  "44|12526": {
+    "real_number": "4604_0",
+    "stop": "Barreiro (Terminal) P14",
+    "route": "4604_0"
+  },
+  "43|2103": {
+    "real_number": "3601_0",
+    "stop": "Rua Miguel Bombarda 194",
+    "route": "3601_0"
+  },
+  "43|2104": {
+    "real_number": "3625_0",
+    "stop": "QUINTA DO PORTO DA RAMAGEM",
+    "route": "3625_0"
+  },
+  "44|12682": {
+    "real_number": "4620_0",
+    "stop": "COINA - CENTRO",
+    "route": "4620_0"
+  },
+  "43|2605": {
+    "real_number": "3605_0",
+    "stop": "COINA -ESTRADA NACIONAL 10",
+    "route": "3605_0"
+  },
+  "41|1222": {
+    "real_number": "1614_0",
+    "stop": "Av Francisco Lucas Pires 239",
+    "route": "1614_0"
+  },
+  "41|737": {
+    "real_number": "1607_0",
+    "stop": "Av Gonçalves Zarco",
+    "route": "1607_0"
+  },
+  "41|765": {
+    "real_number": "1400",
+    "stop": "Av República 1400 (Estação Parede)",
+    "route": "1607_0"
+  },
+  "41|1411": {
+    "real_number": "1638_0",
+    "stop": "R Machado dos Santos 514",
+    "route": "1638_0"
+  },
+  "41|1416": {
+    "real_number": "1608_0",
+    "stop": "Estr de Talaíde (Ponte)",
+    "route": "1608_0"
+  },
+  "41|1885": {
+    "real_number": "1613_1",
+    "stop": "Abóboda",
+    "route": "1613_1"
+  },
+  "41|1227": {
+    "real_number": "1626_0",
+    "stop": "Av Alfredo César Torres (Rotunda)",
+    "route": "1626_0"
+  },
+  "41|1410": {
+    "real_number": "1630_0",
+    "stop": "R Conde Barão 24A",
+    "route": "1630_0"
+  },
+  "41|1393": {
+    "real_number": "1625_0",
+    "stop": "R das Fisgas (X) R de São Francisco",
+    "route": "1625_0"
+  },
+  "41|1231": {
+    "real_number": "1623_0",
+    "stop": "R das Fisgas (Fte Hiper Cascais)",
+    "route": "1623_0"
+  },
+  "41|1232": {
+    "real_number": "1623_1",
+    "stop": "R das Fisgas (Fte Hiper Cascais)",
+    "route": "1623_1"
+  },
+  "41|1229": {
+    "real_number": "1631_0",
+    "stop": "Hospital de Cascais",
+    "route": "1631_0"
+  },
+  "41|1220": {
+    "real_number": "1624_1",
+    "stop": "Av Eng Adelino Amaro Costa 1A",
+    "route": "1624_1"
+  },
+  "41|1399": {
+    "real_number": "1624_1",
+    "stop": "R Jayme Thompson 309 (Escola)",
+    "route": "1624_1"
+  },
+  "41|1372": {
+    "real_number": "1629_0",
+    "stop": "Av Condes Barcelona (Esc Hotelaria)",
+    "route": "1629_0"
+  },
+  "41|1398": {
+    "real_number": "1628_0",
+    "stop": "Pça Almeida Garrett (Casino Estoril)",
+    "route": "1628_0"
+  },
+  "41|1403": {
+    "real_number": "1613_0",
+    "stop": "Estr Torre (X) R Fern Leôncio Mendonça",
+    "route": "1613_0"
+  },
+  "41|1375": {
+    "real_number": "1638_0",
+    "stop": "Prç Fernando Lopes Graça - Igreja",
+    "route": "1638_0"
+  },
+  "41|1421": {
+    "real_number": "1638_0",
+    "stop": "R Luís Camões 186 - Supermercado",
+    "route": "1638_0"
+  },
+  "41|1201": {
+    "real_number": "1706_0",
+    "stop": "Colégio Militar (Metro) P7",
+    "route": "1706_0"
+  },
+  "43|2208": {
+    "real_number": "3710_0",
+    "stop": "AV CALOUSTE GULBENK (ACESSO AV J MALHOA)",
+    "route": "3710_0"
+  },
+  "43|2201": {
+    "real_number": "3710_0",
+    "stop": "Avenida de Ceuta (Banco Alimentar) P1",
+    "route": "3710_0"
+  },
+  "44|12688": {
+    "real_number": "4725_0",
+    "stop": "LISBOA (AV JOSÉ MALHOA IEFP)",
+    "route": "4725_0"
+  },
+  "41|1291": {
+    "real_number": "1701_0",
+    "stop": "Estr Benfica (Mercado)",
+    "route": "1701_0"
+  },
+  "41|1868": {
+    "real_number": "1721_0",
+    "stop": "Calhariz",
+    "route": "1721_0"
+  },
+  "41|1310": {
+    "real_number": "1707_0",
+    "stop": "Igreja Benfica",
+    "route": "1707_0"
+  },
+  "41|1323": {
+    "real_number": "1720_0",
+    "stop": "Calhariz",
+    "route": "1720_0"
+  },
+  "41|1342": {
+    "real_number": "1709_0",
+    "stop": "Colégio Militar (Metro) P5",
+    "route": "1709_0"
+  },
+  "41|1855": {
+    "real_number": "1709_0",
+    "stop": "Estação Pontinha",
+    "route": "1709_0"
+  },
+  "41|722": {
+    "real_number": "1718_0",
+    "stop": "Estr Queluz",
+    "route": "1718_0"
+  },
+  "41|1852": {
+    "real_number": "1714_0",
+    "stop": "R Jerónimos",
+    "route": "1714_0"
+  },
+  "41|1148": {
+    "real_number": "1715_0",
+    "stop": "Av D Vasco da Gama",
+    "route": "1715_0"
+  },
+  "41|1169": {
+    "real_number": "1719_0",
+    "stop": "Colégio Militar (Metro) P6",
+    "route": "1719_0"
+  },
+  "42|2342": {
+    "real_number": "2733_0",
+    "stop": "RALIS",
+    "route": "2733_0"
+  },
+  "42|2350": {
+    "real_number": "2714_0",
+    "stop": "Lumiar",
+    "route": "2714_0"
+  },
+  "42|2544": {
+    "real_number": "2772_0",
+    "stop": "Estr. Desvio",
+    "route": "2772_0"
+  },
+  "42|2320": {
+    "real_number": "2714_0",
+    "stop": "Lumiar",
+    "route": "2714_0"
+  },
+  "42|2315": {
+    "real_number": "2710_0",
+    "stop": "Campo Grande (Metro) P19",
+    "route": "2710_0"
+  },
+  "42|2326": {
+    "real_number": "2727_0",
+    "stop": "Jardim Jacarandás",
+    "route": "2727_0"
+  },
+  "42|2323": {
+    "real_number": "2711_0",
+    "stop": "Charneca",
+    "route": "2711_0"
+  },
+  "42|2308": {
+    "real_number": "2722_0",
+    "stop": "Rua C (Av. Berlim)",
+    "route": "2722_0"
+  },
+  "42|2353": {
+    "real_number": "2713_0",
+    "stop": "LNEC",
+    "route": "2713_0"
+  },
+  "42|2317": {
+    "real_number": "2736_0",
+    "stop": "Gasolineiras",
+    "route": "2736_0"
+  },
+  "42|2578": {
+    "real_number": "2717_0",
+    "stop": "Campo Grande (Metro) P5",
+    "route": "2717_0"
+  },
+  "42|2321": {
+    "real_number": "2713_0",
+    "stop": "Campo Grande (Metro) P20",
+    "route": "2713_0"
+  },
+  "42|2306": {
+    "real_number": "2790_0",
+    "stop": "Aeroporto (Portugália)",
+    "route": "2790_0"
+  },
+  "42|2769": {
+    "real_number": "2797_1",
+    "stop": "Campo Grande (Metro) P11",
+    "route": "2797_1"
+  },
+  "42|2343": {
+    "real_number": "2711_0",
+    "stop": "Gare do Oriente 17-B",
+    "route": "2711_0"
+  },
+  "42|1104": {
+    "real_number": "2740_0",
+    "stop": "Campo Grande (Metro) P24",
+    "route": "2740_0"
+  },
+  "42|2707": {
+    "real_number": "2794_0",
+    "stop": "Gare do Oriente 11-B",
+    "route": "2794_0"
+  },
+  "42|2603": {
+    "real_number": "2781_0",
+    "stop": "Pontinha (Metro) P2",
+    "route": "2781_0"
+  },
+  "41|1108": {
+    "real_number": "1706_0",
+    "stop": "R João Ortigão Ramos",
+    "route": "1706_0"
+  },
+  "41|1348": {
+    "real_number": "1707_0",
+    "stop": "Colégio Militar (Metro) P10",
+    "route": "1707_0"
+  },
+  "43|2229": {
+    "real_number": "3716_0",
+    "stop": "Sete Rios (Estação) P6",
+    "route": "3716_0"
+  },
+  "43|2203": {
+    "real_number": "3717_0",
+    "stop": "Sete Rios (Estação) P1",
+    "route": "3717_0"
+  },
+  "41|1265": {
+    "real_number": "1724_0",
+    "stop": "Marquês de Pombal (Metro) P3",
+    "route": "1724_0"
+  },
+  "42|2423": {
+    "real_number": "2790_0",
+    "stop": "Pç. Areeiro",
+    "route": "2790_0"
+  },
+  "43|2227": {
+    "real_number": "3710_0",
+    "stop": "Lisboa (Areeiro) Av Joao XXI 56",
+    "route": "3710_0"
+  },
+  "43|2228": {
+    "real_number": "3710_0",
+    "stop": "Lisboa (Campo Pequeno) Av Berna 28 FCSH",
+    "route": "3710_0"
+  },
+  "42|2370": {
+    "real_number": "2722_0",
+    "stop": "Qta. Sto. António",
+    "route": "2722_0"
+  },
+  "43|2271": {
+    "real_number": "3703_0",
+    "stop": "Avenida Padre Manuel da Nóbrega 6",
+    "route": "3703_0"
+  },
+  "42|1086": {
+    "real_number": "2758_0",
+    "stop": "R da República 138 (Jardim)",
+    "route": "2758_0"
+  },
+  "42|1201": {
+    "real_number": "2785_0",
+    "stop": "R da República 138 (Jardim)",
+    "route": "2785_0"
+  },
+  "42|2419": {
+    "real_number": "2029_0",
+    "stop": "Avenida Capitão Salgueiro Maia (X) Rua Doutor Filipe Araújo",
+    "route": "2029_0"
+  },
+  "42|1213": {
+    "real_number": "2620_0",
+    "stop": "R República 14 (Escola)",
+    "route": "2620_0"
+  },
+  "42|2592": {
+    "real_number": "2764_0",
+    "stop": "R República 76 (Câmara)",
+    "route": "2764_0"
+  },
+  "42|1110": {
+    "real_number": "2776_0",
+    "stop": "R Egas Moniz (Centro Saúde)",
+    "route": "2776_0"
+  },
+  "42|2035": {
+    "real_number": "2032_0",
+    "stop": "Rua Aristides Sousa Mendes 3",
+    "route": "2032_0"
+  },
+  "42|2319": {
+    "real_number": "2710_0",
+    "stop": "Av Forças Armadas (Catujal)",
+    "route": "2710_0"
+  },
+  "42|2333": {
+    "real_number": "2710_0",
+    "stop": "Av Forças Armadas (Catujal)",
+    "route": "2710_0"
+  },
+  "42|2312": {
+    "real_number": "2726_0",
+    "stop": "R José Domingos Morais",
+    "route": "2726_0"
+  },
+  "42|2351": {
+    "real_number": "2734_0",
+    "stop": "Sacavém (Estação)",
+    "route": "2734_0"
+  },
+  "42|2325": {
+    "real_number": "2727_0",
+    "stop": "R Bartolomeu Dias (B Miratejo)",
+    "route": "2727_0"
+  },
+  "42|2051": {
+    "real_number": "2008_0",
+    "stop": "Bucelas (Centro Saúde)",
+    "route": "2008_0"
+  },
+  "42|2764": {
+    "real_number": "2530_0",
+    "stop": "Romeira Cima",
+    "route": "2530_0"
+  },
+  "42|2770": {
+    "real_number": "2719_0",
+    "stop": "R Cmte Carvalho Araújo 115 (Sete Casas)",
+    "route": "2719_0"
+  },
+  "42|1217": {
+    "real_number": "2011_0",
+    "stop": "R Francisco Simões Chacoso (X) En 374",
+    "route": "2011_0"
+  },
+  "42|2614": {
+    "real_number": "2769_0",
+    "stop": "Avenida Luís de Camões 10",
+    "route": "2769_0"
+  },
+  "42|546": {
+    "real_number": "2024_0",
+    "stop": "Av D Sebastião 16",
+    "route": "2024_0"
+  },
+  "42|2330": {
+    "real_number": "2724_0",
+    "stop": "R Ant Sérgio (x) R A Herculano (Escola)",
+    "route": "2724_0"
+  },
+  "42|2345": {
+    "real_number": "2733_0",
+    "stop": "R Ant Sérgio (x) R A Herculano (Escola)",
+    "route": "2733_0"
+  },
+  "42|2559": {
+    "real_number": "2518_0",
+    "stop": "R Qta Pinto 13 (Frielas)",
+    "route": "2518_0"
+  },
+  "42|280": {
+    "real_number": "2772_0",
+    "stop": "Praceta Flamenga 24 (Escola)",
+    "route": "2772_0"
+  },
+  "42|1109": {
+    "real_number": "2753_0",
+    "stop": "R Combatentes Ultramar 148 (Guerreiros)",
+    "route": "2753_0"
+  },
+  "42|1186": {
+    "real_number": "2016_1",
+    "stop": "R Câmara de Lobos 1 (Mealhada)",
+    "route": "2016_1"
+  },
+  "42|2612": {
+    "real_number": "2511_0",
+    "stop": "Hospital Beatriz Ângelo",
+    "route": "2511_0"
+  },
+  "42|2050": {
+    "real_number": "2020_0",
+    "stop": "Hospital Beatriz Ângelo (Consultas)",
+    "route": "2020_0"
+  },
+  "42|2209": {
+    "real_number": "2780_0",
+    "stop": "Hospital Beatriz Ângelo",
+    "route": "2780_0"
+  },
+  "42|2760": {
+    "real_number": "2706_0",
+    "stop": "Av Descobertas 79 (Infantado)",
+    "route": "2706_0"
+  },
+  "42|2583": {
+    "real_number": "2525_0",
+    "stop": "A Das Lebres (R Liberdade 116)",
+    "route": "2525_0"
+  },
+  "42|2777": {
+    "real_number": "2718_0",
+    "stop": "Av Descobertas (C Comercial)",
+    "route": "2718_0"
+  },
+  "42|2750": {
+    "real_number": "2706_0",
+    "stop": "Av Descobertas 13 (Infantado)",
+    "route": "2706_0"
+  },
+  "42|2763": {
+    "real_number": "2762_0",
+    "stop": "Fanhões (R Alfredo Dinis Alex 13)",
+    "route": "2762_0"
+  },
+  "42|2783": {
+    "real_number": "2719_0",
+    "stop": "R Cidade Rio Janeiro 71",
+    "route": "2719_0"
+  },
+  "42|2754": {
+    "real_number": "2720_0",
+    "stop": "R Cidade Rio Janeiro (X) Conventinho",
+    "route": "2720_0"
+  },
+  "42|2328": {
+    "real_number": "2727_0",
+    "stop": "R 28 Setembro (Ponte Frielas)",
+    "route": "2727_0"
+  },
+  "42|281": {
+    "real_number": "2774_0",
+    "stop": "En 250 50 (Ponte Frielas)",
+    "route": "2774_0"
+  },
+  "42|2377": {
+    "real_number": "2774_0",
+    "stop": "En 250 (X) R 28 Setembro (C Futebol)",
+    "route": "2774_0"
+  },
+  "42|2337": {
+    "real_number": "2733_0",
+    "stop": "En 250 (X) R 28 Setembro (C Futebol)",
+    "route": "2733_0"
+  },
+  "42|2111": {
+    "real_number": "2725_0",
+    "stop": "En 250 (X) Unhos",
+    "route": "2725_0"
+  },
+  "42|2589": {
+    "real_number": "2750_0",
+    "stop": "Ponte Frielas (X) R David José Chitas",
+    "route": "2750_0"
+  },
+  "42|1107": {
+    "real_number": "2776_1",
+    "stop": "Mealhada (X) Qta Conventinho",
+    "route": "2776_1"
+  },
+  "42|2033": {
+    "real_number": "2731_0",
+    "stop": "Sacavém (Estação)",
+    "route": "2731_0"
+  },
+  "42|2774": {
+    "real_number": "2706_1",
+    "stop": "Infantado (X) Via Rápida",
+    "route": "2706_1"
+  },
+  "42|294": {
+    "real_number": "2730_0",
+    "stop": "R João Pinto Ribeiro (Moscavide)",
+    "route": "2730_0"
+  },
+  "42|2409": {
+    "real_number": "2029_0",
+    "stop": "R Adão Barata (C Saúde)",
+    "route": "2029_0"
+  },
+  "42|2424": {
+    "real_number": "2029_0",
+    "stop": "R Escritores 136 (Portela)",
+    "route": "2029_0"
+  },
+  "42|2110": {
+    "real_number": "2735_0",
+    "stop": "R Mouz Alburquerque (X) R Escola",
+    "route": "2735_0"
+  },
+  "42|2375": {
+    "real_number": "2729_0",
+    "stop": "R Franc Marques Beato 26",
+    "route": "2729_0"
+  },
+  "42|2357": {
+    "real_number": "2711_0",
+    "stop": "R Avelino Salgado Oliveira (Igreja)",
+    "route": "2711_0"
+  },
+  "42|2313": {
+    "real_number": "2736_0",
+    "stop": "R Bombeiros Voluntários (Escola)",
+    "route": "2736_0"
+  },
+  "42|2349": {
+    "real_number": "2711_0",
+    "stop": "R Fetais (Rotunda)",
+    "route": "2711_0"
+  },
+  "42|2000": {
+    "real_number": "2030_0",
+    "stop": "B Sto António (X) Rua D",
+    "route": "2030_0"
+  },
+  "42|2001": {
+    "real_number": "2030_0",
+    "stop": "Estr Militar (Rotunda) (Sacavém)",
+    "route": "2030_0"
+  },
+  "42|2104": {
+    "real_number": "1424",
+    "stop": "R Cidade Goa 1424 (Sacavém)",
+    "route": "2725_0"
+  },
+  "42|2310": {
+    "real_number": "2790_0",
+    "stop": "Praça República (Jardim)",
+    "route": "2790_0"
+  },
+  "42|296": {
+    "real_number": "2730_0",
+    "stop": "R D Afonso Henriques 14 (C Comercial)",
+    "route": "2730_0"
+  },
+  "42|2406": {
+    "real_number": "2728_0",
+    "stop": "R Ant Ferreira 21",
+    "route": "2728_0"
+  },
+  "42|2712": {
+    "real_number": "2793_0",
+    "stop": "En 10 (B Petrogal)",
+    "route": "2793_0"
+  },
+  "42|297": {
+    "real_number": "2730_0",
+    "stop": "R D Nuno Alvares Pereira 4",
+    "route": "2730_0"
+  },
+  "42|2417": {
+    "real_number": "2729_0",
+    "stop": "R Escola 10 (B Fraternidade)",
+    "route": "2729_0"
+  },
+  "42|2711": {
+    "real_number": "2792_0",
+    "stop": "Av Inf Santo (Cemitério)",
+    "route": "2792_0"
+  },
+  "42|2402": {
+    "real_number": "2729_0",
+    "stop": "Av Inf Santo 24",
+    "route": "2729_0"
+  },
+  "42|2503": {
+    "real_number": "2039_0",
+    "stop": "R Santo Antão 2 (Jardim)",
+    "route": "2039_0"
+  },
+  "42|2422": {
+    "real_number": "2537_0",
+    "stop": "R Arquitecto Dias Coelho 23 (Qta Cruz)",
+    "route": "2537_0"
+  },
+  "42|2112": {
+    "real_number": "2540_0",
+    "stop": "Av Santa Maria (X) Rua 5 (MARL)",
+    "route": "2540_0"
+  },
+  "42|2009": {
+    "real_number": "2035_0",
+    "stop": "AV Nac (X) R 9 (MARL)",
+    "route": "2035_0"
+  },
+  "42|2400": {
+    "real_number": "2533_0",
+    "stop": "R Santo Antão 9 (Parque RL)",
+    "route": "2533_0"
+  },
+  "42|2335": {
+    "real_number": "2714_0",
+    "stop": "R Sta Clara 47 (B S José)",
+    "route": "2714_0"
+  },
+  "42|2334": {
+    "real_number": "2714_0",
+    "stop": "R Sta Clara 94 (B S José)",
+    "route": "2714_0"
+  },
+  "42|2757": {
+    "real_number": "2038_0",
+    "stop": "Zambujeiro (X)",
+    "route": "2038_0"
+  },
+  "42|2584": {
+    "real_number": "2764_0",
+    "stop": "N115 (X) Nó de À-das-Lebres",
+    "route": "2764_0"
+  },
+  "42|2420": {
+    "real_number": "2534_0",
+    "stop": "S Roque (X) A Das Lebres",
+    "route": "2534_0"
+  },
+  "42|2722": {
+    "real_number": "2750_0",
+    "stop": "R Funchal 77 (Qta Sacouto)",
+    "route": "2750_0"
+  },
+  "42|2052": {
+    "real_number": "2502_0",
+    "stop": "R Marechal Carmona 13 (Bucelas)",
+    "route": "2502_0"
+  },
+  "42|1253": {
+    "real_number": "2754_0",
+    "stop": "R Herois Ultramar (X) Carvalheiro",
+    "route": "2754_0"
+  },
+  "42|1204": {
+    "real_number": "2754_2",
+    "stop": "En 374-2 4 (Lousa)",
+    "route": "2754_2"
+  },
+  "42|2595": {
+    "real_number": "2764_0",
+    "stop": "Trancão (X) Zambujal",
+    "route": "2764_0"
+  },
+  "42|2755": {
+    "real_number": "2706_0",
+    "stop": "En 115 (Rotunda)",
+    "route": "2706_0"
+  },
+  "42|2205": {
+    "real_number": "2524_0",
+    "stop": "R Casal Reis (Rotunda)",
+    "route": "2524_0"
+  },
+  "42|2759": {
+    "real_number": "2706_0",
+    "stop": "En 115 (Rotunda)",
+    "route": "2706_0"
+  },
+  "42|2537": {
+    "real_number": "2515_0",
+    "stop": "R Joaquim Augusto Dias (C Paradela)",
+    "route": "2515_0"
+  },
+  "42|2114": {
+    "real_number": "2034_0",
+    "stop": "Av Infante Santo 73 (Portela Azóia)",
+    "route": "2034_0"
+  },
+  "42|2307": {
+    "real_number": "2722_0",
+    "stop": "Av Infante Santo 73 (Portela Azóia)",
+    "route": "2722_0"
+  },
+  "42|2587": {
+    "real_number": "2530_0",
+    "stop": "Rua Marquês de Pombal (Terminal RL)",
+    "route": "2530_0"
+  },
+  "42|2703": {
+    "real_number": "2794_0",
+    "stop": "R Cap Henr Galvão 23 (B Ariola)",
+    "route": "2794_0"
+  },
+  "42|2421": {
+    "real_number": "2728_0",
+    "stop": "Avenida de Moscavide 30",
+    "route": "2728_0"
+  },
+  "42|2359": {
+    "real_number": "2708_0",
+    "stop": "En 6-11 (Zona Comercial)",
+    "route": "2708_0"
+  },
+  "42|2338": {
+    "real_number": "2708_0",
+    "stop": "Av Forças Armadas (X) R Cemitério",
+    "route": "2708_0"
+  },
+  "42|2341": {
+    "real_number": "2711_0",
+    "stop": "Estr Militar (X) R Santiago",
+    "route": "2711_0"
+  },
+  "42|2340": {
+    "real_number": "2713_0",
+    "stop": "Estr S Paulo (Apelação)",
+    "route": "2713_0"
+  },
+  "42|2346": {
+    "real_number": "2736_0",
+    "stop": "Av 25 Abril (X) R Vinha Grande",
+    "route": "2736_0"
+  },
+  "42|2318": {
+    "real_number": "2710_0",
+    "stop": "R Cidade Lisboa 6 (C Saude)",
+    "route": "2710_0"
+  },
+  "42|2355": {
+    "real_number": "2711_0",
+    "stop": "R Liberdade (X) R Alfredo Lima",
+    "route": "2711_0"
+  },
+  "42|2314": {
+    "real_number": "2711_0",
+    "stop": "R Liberdade 57A (B Santiago)",
+    "route": "2711_0"
+  },
+  "42|2354": {
+    "real_number": "2036_0",
+    "stop": "Estr Militar 300 (Apelação)",
+    "route": "2036_0"
+  },
+  "42|283": {
+    "real_number": "2795_0",
+    "stop": "Av Severiano Falcão 11",
+    "route": "2795_0"
+  },
+  "42|2372": {
+    "real_number": "2722_0",
+    "stop": "R Salgueiro Maia (B Petrogal)",
+    "route": "2722_0"
+  },
+  "42|285": {
+    "real_number": "2729_0",
+    "stop": "R Salgueiro Maia (X) Qta Parreirinha",
+    "route": "2729_0"
+  },
+  "42|2363": {
+    "real_number": "2729_0",
+    "stop": "R Chafariz (X) R Maria Machado",
+    "route": "2729_0"
+  },
+  "42|2031": {
+    "real_number": "2731_0",
+    "stop": "Av Peregrinação (Moscavide)",
+    "route": "2731_0"
+  },
+  "42|2102": {
+    "real_number": "2735_0",
+    "stop": "Av Vasco Gama Fern (X) R J Stos Mateus",
+    "route": "2735_0"
+  },
+  "42|2373": {
+    "real_number": "2790_0",
+    "stop": "En 10 (X) Estação Bobadela",
+    "route": "2790_0"
+  },
+  "42|2541": {
+    "real_number": "2717_0",
+    "stop": "Rua Laura Ayres (Mercearia)",
+    "route": "2717_0"
+  },
+  "42|2582": {
+    "real_number": "2039_0",
+    "stop": "Rua do Tazim 17",
+    "route": "2039_0"
+  },
+  "42|2361": {
+    "real_number": "2709_0",
+    "stop": "Azinhaga do Reguengo Frente Zona Comercial",
+    "route": "2709_0"
+  },
+  "42|2768": {
+    "real_number": "2762_0",
+    "stop": "Estrada das Ribas (X) Rua Agostinho José da Silva",
+    "route": "2762_0"
+  },
+  "42|2526": {
+    "real_number": "2781_0",
+    "stop": "Avenida Álvaro Cunhal (Parque Logístico)",
+    "route": "2781_0"
+  },
+  "42|1098": {
+    "real_number": "2751_0",
+    "stop": "Ericeira (Terminal Rodoviário) P1",
+    "route": "2751_0"
+  },
+  "42|1180": {
+    "real_number": "2126_0",
+    "stop": "R do Mirante",
+    "route": "2126_0"
+  },
+  "41|1223": {
+    "real_number": "1633_1",
+    "stop": "En 247 (Igreja) (Carvoeira)",
+    "route": "1633_1"
+  },
+  "42|1112": {
+    "real_number": "2803_0",
+    "stop": "En 116 (X) R Vale 4",
+    "route": "2803_0"
+  },
+  "42|1255": {
+    "real_number": "2905_0",
+    "stop": "En 247 (B Pescadores)",
+    "route": "2905_0"
+  },
+  "42|1075": {
+    "real_number": "2101_0",
+    "stop": "R Principal (X) R Carrascal",
+    "route": "2101_0"
+  },
+  "42|1010": {
+    "real_number": "2129_0",
+    "stop": "Estr Junceira (X) Estr Zimbral",
+    "route": "2129_0"
+  },
+  "42|1005": {
+    "real_number": "2137_0",
+    "stop": "Em 616 (X) Bairro Alto",
+    "route": "2137_0"
+  },
+  "42|1150": {
+    "real_number": "2145_1",
+    "stop": "R Principal (Largo da Arieira)",
+    "route": "2145_1"
+  },
+  "42|1078": {
+    "real_number": "2805_0",
+    "stop": "En 9 (X) Sobral da Abelheira",
+    "route": "2805_0"
+  },
+  "42|1004": {
+    "real_number": "2103_0",
+    "stop": "R Santa Casa Misericórdia 10 (Terminal)",
+    "route": "2103_0"
+  },
+  "42|1096": {
+    "real_number": "2804_0",
+    "stop": "En 8 6 (Venda Valador)",
+    "route": "2804_0"
+  },
+  "42|1081": {
+    "real_number": "2804_0",
+    "stop": "En 116 (X) Pousal",
+    "route": "2804_0"
+  },
+  "42|1079": {
+    "real_number": "2758_0",
+    "stop": "R Dom João V 51 (Rotunda)",
+    "route": "2758_0"
+  },
+  "42|1085": {
+    "real_number": "2802_0",
+    "stop": "R Dom João V 51 (Rotunda)",
+    "route": "2802_0"
+  },
+  "42|1067": {
+    "real_number": "2803_0",
+    "stop": "Pq Intermodal Alto da Vela",
+    "route": "2803_0"
+  },
+  "42|1159": {
+    "real_number": "2110_0",
+    "stop": "R Outeiro 2 (Carvalhal Cheleiros)",
+    "route": "2110_0"
+  },
+  "42|1182": {
+    "real_number": "2150_1",
+    "stop": "Estr Principal 2 (Arroeiras)",
+    "route": "2150_1"
+  },
+  "42|1065": {
+    "real_number": "2807_0",
+    "stop": "Av forças Armadas 8",
+    "route": "2807_0"
+  },
+  "42|1090": {
+    "real_number": "2119_1",
+    "stop": "Em 620-1 (X) Pecuária",
+    "route": "2119_1"
+  },
+  "42|1088": {
+    "real_number": "2119_0",
+    "stop": "Em 620-1 (X) R Sra da Conceição",
+    "route": "2119_0"
+  },
+  "42|1097": {
+    "real_number": "2130_1",
+    "stop": "Estr do Albarral (X) R da Cruz",
+    "route": "2130_1"
+  },
+  "42|1113": {
+    "real_number": "2138_0",
+    "stop": "Estr das Galegas (X) Estr do Albarral",
+    "route": "2138_0"
+  },
+  "42|1087": {
+    "real_number": "2801_0",
+    "stop": "R Américo Veríssimo Valadas 16",
+    "route": "2801_0"
+  },
+  "42|1070": {
+    "real_number": "2801_0",
+    "stop": "Av de Portugal 57",
+    "route": "2801_0"
+  },
+  "42|1152": {
+    "real_number": "2910_2",
+    "stop": "R Principal 29",
+    "route": "2910_2"
+  },
+  "42|1271": {
+    "real_number": "2506_0",
+    "stop": "Av de Portugal 17",
+    "route": "2506_0"
+  },
+  "42|2752": {
+    "real_number": "2761_0",
+    "stop": "R 1º de Maio 21 (Cabeço Montachique)",
+    "route": "2761_0"
+  },
+  "42|1102": {
+    "real_number": "2626_0",
+    "stop": "Estr Velha 36",
+    "route": "2626_0"
+  },
+  "42|1015": {
+    "real_number": "2901_0",
+    "stop": "R Catarral 6",
+    "route": "2901_0"
+  },
+  "42|1181": {
+    "real_number": "2106_0",
+    "stop": "Venda Do Pinheiro (Eco Parque) P4",
+    "route": "2106_0"
+  },
+  "42|1183": {
+    "real_number": "2124_0",
+    "stop": "Ericeira (Terminal Rodoviário) P5",
+    "route": "2124_0"
+  },
+  "42|1257": {
+    "real_number": "2746_0",
+    "stop": "Avenida Principal (Casais da Serra)",
+    "route": "2746_0"
+  },
+  "42|1083": {
+    "real_number": "2804_1",
+    "stop": "R Quinta dos Estrangeiros (Biblioteca)",
+    "route": "2804_1"
+  },
+  "42|1160": {
+    "real_number": "2142_1",
+    "stop": "Mafra (Terminal) P5",
+    "route": "2142_1"
+  },
+  "44|12522": {
+    "real_number": "4600_0",
+    "stop": "FONTE PRATA(R JORGE PEIXINHO) SUPERMERC",
+    "route": "4600_0"
+  },
+  "44|12701": {
+    "real_number": "4701_0",
+    "stop": "Rua Jorge Peixinho Frente 39",
+    "route": "4701_0"
+  },
+  "44|12521": {
+    "real_number": "4101_0",
+    "stop": "Rua Joly Braga Santos (Parque Quinta da Fonte da Prata)",
+    "route": "4101_0"
+  },
+  "44|12506": {
+    "real_number": "4600_0",
+    "stop": "Rua Joly Braga Santos (Frente Parque Quinta da Fonte da Prata)",
+    "route": "4600_0"
+  },
+  "44|12667": {
+    "real_number": "4701_0",
+    "stop": "ALHOS VEDROS (EN11)POSTO COMBUST",
+    "route": "4701_0"
+  },
+  "44|12541": {
+    "real_number": "4604_0",
+    "stop": "Bº GOUVEIA (R CALDAS XAVIER)CPO FUTEBOL",
+    "route": "4604_0"
+  },
+  "44|12082": {
+    "real_number": "4104_0",
+    "stop": "MOITA (ESTAÇÃO CP)",
+    "route": "4104_0"
+  },
+  "44|12056": {
+    "real_number": "4102_0",
+    "stop": "MOITA (R OPERÁRIO) SUPERMERCADO",
+    "route": "4102_0"
+  },
+  "44|13600": {
+    "real_number": "4600_0",
+    "stop": "Avenida Marginal (Frente Estacionamento do Pavilhão Municipal)",
+    "route": "4600_0"
+  },
+  "44|13943": {
+    "real_number": "4701_0",
+    "stop": "MOITA (AV MARGINAL) CÂMARA MUNICIPAL",
+    "route": "4701_0"
+  },
+  "44|12636": {
+    "real_number": "4103_0",
+    "stop": "SARILHOS PEQUENOS (R LUÍS CAMÕES 53)",
+    "route": "4103_0"
+  },
+  "44|12069": {
+    "real_number": "4532_0",
+    "stop": "QUATRO MARCOS (EM 1023) X R CEUTA",
+    "route": "4532_0"
+  },
+  "44|12070": {
+    "real_number": "4602_0",
+    "stop": "QUINTA DA VÁRZEA",
+    "route": "4602_0"
+  },
+  "44|12686": {
+    "real_number": "4600_0",
+    "stop": "BAIXA BANHEIRA (EN 11 54)",
+    "route": "4600_0"
+  },
+  "44|12520": {
+    "real_number": "4602_0",
+    "stop": "ESTAÇÃO ALHOS VEDROS",
+    "route": "4602_0"
+  },
+  "44|12620": {
+    "real_number": "4602_0",
+    "stop": "VALE AMOREIRA (R JOSE ALM NEGREIROS 18)",
+    "route": "4602_0"
+  },
+  "44|12665": {
+    "real_number": "4701_0",
+    "stop": "AV 1 DE MAIO X R DA UNIÃO",
+    "route": "4701_0"
+  },
+  "44|13596": {
+    "real_number": "4706_0",
+    "stop": "Rua José Joaquim Marques (Policlínica)",
+    "route": "4706_0"
+  },
+  "44|12554": {
+    "real_number": "4512_0",
+    "stop": "Bº LIB (R G COUTINHO)XR LUIS CORR MOR",
+    "route": "4512_0"
+  },
+  "44|12535": {
+    "real_number": "4504_0",
+    "stop": "MONTIJO (R BELA VISTA 103)",
+    "route": "4504_0"
+  },
+  "44|12553": {
+    "real_number": "4203_0",
+    "stop": "Avenida Pedro Nunes (Escola)",
+    "route": "4203_0"
+  },
+  "44|13989": {
+    "real_number": "4706_0",
+    "stop": "AFONSOEIRO (ALTO VINHAS GRANDES 745)",
+    "route": "4706_0"
+  },
+  "44|12092": {
+    "real_number": "4203_0",
+    "stop": "AFONSOEIRO (ALTO VINHAS GRANDES 745)",
+    "route": "4203_0"
+  },
+  "44|13944": {
+    "real_number": "4705_0",
+    "stop": "AFONSOEIRO (AV PEDRO NUNES 968)",
+    "route": "4705_0"
+  },
+  "44|12606": {
+    "real_number": "4504_0",
+    "stop": "MONTIJO (R JOSÉ JOAQ ALMEIDA 205)",
+    "route": "4504_0"
+  },
+  "44|12671": {
+    "real_number": "4705_0",
+    "stop": "MONTIJO (R HORTENSES)",
+    "route": "4705_0"
+  },
+  "44|13601": {
+    "real_number": "4600_0",
+    "stop": "MONTIJO (AV INF D HENRIQUE 421) ESC SEC",
+    "route": "4600_0"
+  },
+  "44|12090": {
+    "real_number": "4203_0",
+    "stop": "MONTIJO (AV LUIS CAMÕES 412)",
+    "route": "4203_0"
+  },
+  "44|12502": {
+    "real_number": "4204_0",
+    "stop": "Bº CHARQUEIRÃO (R BOA ESPERANÇA)",
+    "route": "4204_0"
+  },
+  "44|12684": {
+    "real_number": "4512_0",
+    "stop": "AFONSOEIRO (EN 5 36)",
+    "route": "4512_0"
+  },
+  "44|13945": {
+    "real_number": "4701_0",
+    "stop": "Escola Básica de Sarilhos Grandes",
+    "route": "4701_0"
+  },
+  "44|12551": {
+    "real_number": "4600_0",
+    "stop": "Estrada Nacional 11 9",
+    "route": "4600_0"
+  },
+  "44|12574": {
+    "real_number": "4212_0",
+    "stop": "CANHA (R CASTELO) TERMINAL",
+    "route": "4212_0"
+  },
+  "44|12501": {
+    "real_number": "4514_0",
+    "stop": "TAIPADAS (EN 10) CASA CANTONEIROS",
+    "route": "4514_0"
+  },
+  "44|12695": {
+    "real_number": "4600_0",
+    "stop": "Bº CANEIRA (EM 501) X ESTR REAL",
+    "route": "4600_0"
+  },
+  "44|12514": {
+    "real_number": "4501_0",
+    "stop": "Bº CANEIRA (EM 501 48)",
+    "route": "4501_0"
+  },
+  "44|12509": {
+    "real_number": "4515_0",
+    "stop": "ATALAIA (EN 4) X (ESTR DA FIGUEIRA)",
+    "route": "4515_0"
+  },
+  "44|12531": {
+    "real_number": "4515_0",
+    "stop": "FIGUEIRAS (EN 4) X R HERÓIS ULTRAMAR",
+    "route": "4515_0"
+  },
+  "44|12505": {
+    "real_number": "4600_0",
+    "stop": "BROEGA (EN 11 112)",
+    "route": "4600_0"
+  },
+  "44|12716": {
+    "real_number": "4704_0",
+    "stop": "Avenida Garcia da Orta (Frente Lavandaria)",
+    "route": "4704_0"
+  },
+  "42|2538": {
+    "real_number": "2630_0",
+    "stop": "R Major Rosa Bastos (Supermercado)",
+    "route": "2630_0"
+  },
+  "41|1121": {
+    "real_number": "1709_0",
+    "stop": "R Coronel Braz Oliveira 19",
+    "route": "1709_0"
+  },
+  "41|1344": {
+    "real_number": "1709_0",
+    "stop": "R Liberdade 24",
+    "route": "1709_0"
+  },
+  "42|253": {
+    "real_number": "2824_0",
+    "stop": "Pontinha (R Regimento Engenharia Um)",
+    "route": "2824_0"
+  },
+  "41|1146": {
+    "real_number": "1710_3",
+    "stop": "R Sto Eloy 40 (Pontinha)",
+    "route": "1710_3"
+  },
+  "41|1139": {
+    "real_number": "1711_0",
+    "stop": "Presa (X) Casal da Mira",
+    "route": "1711_0"
+  },
+  "42|282": {
+    "real_number": "2811_0",
+    "stop": "R C Carneiro Moura (X) R Moreira Feyo",
+    "route": "2811_0"
+  },
+  "42|210": {
+    "real_number": "2518_0",
+    "stop": "R M Caldas Xavier 55A (C Comercial)",
+    "route": "2518_0"
+  },
+  "42|2610": {
+    "real_number": "2225_0",
+    "stop": "R Castelinho (X) Pcta José Rosalino",
+    "route": "2225_0"
+  },
+  "41|1705": {
+    "real_number": "1635_1",
+    "stop": "R Pinhal Verde Fte 5",
+    "route": "1635_1"
+  },
+  "42|2601": {
+    "real_number": "2207_0",
+    "stop": "R República 125",
+    "route": "2207_0"
+  },
+  "42|2556": {
+    "real_number": "2812_0",
+    "stop": "R Luís Camões (Ponte Bica)",
+    "route": "2812_0"
+  },
+  "42|2509": {
+    "real_number": "2206_0",
+    "stop": "R Luís Camões (Ponte Bica)",
+    "route": "2206_0"
+  },
+  "42|522": {
+    "real_number": "2207_0",
+    "stop": "R Torcato Jorge 12",
+    "route": "2207_0"
+  },
+  "42|2207": {
+    "real_number": "2522_0",
+    "stop": "R Comb Ultramar 81",
+    "route": "2522_0"
+  },
+  "42|2520": {
+    "real_number": "2207_0",
+    "stop": "R Cmdte Sacadura Cabral 10",
+    "route": "2207_0"
+  },
+  "42|2613": {
+    "real_number": "2831_0",
+    "stop": "R Cidade Amarante (Famões)",
+    "route": "2831_0"
+  },
+  "42|218": {
+    "real_number": "2209_0",
+    "stop": "Senhor Roubado (Metro) P7",
+    "route": "2209_0"
+  },
+  "42|2535": {
+    "real_number": "2781_0",
+    "stop": "R Alexandre Braga 4 D (Farmácia)",
+    "route": "2781_0"
+  },
+  "42|2203": {
+    "real_number": "2821_0",
+    "stop": "Av Magalhães Cout (X) Aug Vasconcelos",
+    "route": "2821_0"
+  },
+  "42|2561": {
+    "real_number": "2831_0",
+    "stop": "R Cidade Silves 280 (Famões)",
+    "route": "2831_0"
+  },
+  "42|2206": {
+    "real_number": "2524_0",
+    "stop": "Av Liberdade (Escola)",
+    "route": "2524_0"
+  },
+  "42|2500": {
+    "real_number": "2210_0",
+    "stop": "Av 25 Abril (X) R Augusto Vasconcelos",
+    "route": "2210_0"
+  },
+  "42|2534": {
+    "real_number": "2218_0",
+    "stop": "R Alves Redol 37",
+    "route": "2218_0"
+  },
+  "42|2609": {
+    "real_number": "2212_0",
+    "stop": "R Ant Quental 31 (Patameiras)",
+    "route": "2212_0"
+  },
+  "42|2568": {
+    "real_number": "2601_0",
+    "stop": "Odivelas (Metro) P9",
+    "route": "2601_0"
+  },
+  "42|268": {
+    "real_number": "2824_0",
+    "stop": "Av D Dinis 10",
+    "route": "2824_0"
+  },
+  "42|2379": {
+    "real_number": "2632_0",
+    "stop": "Qta Dálias (X) R Camilo Castelo Branco",
+    "route": "2632_0"
+  },
+  "42|216": {
+    "real_number": "2223_0",
+    "stop": "R Afonso Lopes Vieira 100 (Escola)",
+    "route": "2223_0"
+  },
+  "42|2554": {
+    "real_number": "2223_0",
+    "stop": "Av Liberdade 85 (Casal Trigache)",
+    "route": "2223_0"
+  },
+  "42|2549": {
+    "real_number": "2814_0",
+    "stop": "R Brasil (Casal Novo)",
+    "route": "2814_0"
+  },
+  "42|2579": {
+    "real_number": "2217_0",
+    "stop": "R Carolina Michaelis 4 (B Bons Dias)",
+    "route": "2217_0"
+  },
+  "42|2208": {
+    "real_number": "2780_0",
+    "stop": "R M Craveiro Lopes (Cemitério)",
+    "route": "2780_0"
+  },
+  "42|2545": {
+    "real_number": "2812_0",
+    "stop": "R Angola (Olival Basto)",
+    "route": "2812_0"
+  },
+  "42|2551": {
+    "real_number": "2781_0",
+    "stop": "Av Liberdade 27 (Jardim Radial)",
+    "route": "2781_0"
+  },
+  "42|2607": {
+    "real_number": "2611_0",
+    "stop": "Av Liberdade 27 (Jardim Radial)",
+    "route": "2611_0"
+  },
+  "42|2502": {
+    "real_number": "2769_0",
+    "stop": "R Gen Alves Roçadas 2 (Póvoa Sto Adrião)",
+    "route": "2769_0"
+  },
+  "42|2378": {
+    "real_number": "2605_0",
+    "stop": "Lgo Pôr Sol (B S Jorge)",
+    "route": "2605_0"
+  },
+  "42|2210": {
+    "real_number": "2780_0",
+    "stop": "R Regimento Engenharia 1",
+    "route": "2780_0"
+  },
+  "42|2566": {
+    "real_number": "2811_0",
+    "stop": "R M João Luís Moura (X) R P Alv Cabral",
+    "route": "2811_0"
+  },
+  "42|2539": {
+    "real_number": "2631_0",
+    "stop": "R M Gomes Costa (Famões)",
+    "route": "2631_0"
+  },
+  "42|2547": {
+    "real_number": "2781_0",
+    "stop": "Av José Francisco Guerreiro (Escola)",
+    "route": "2781_0"
+  },
+  "42|2204": {
+    "real_number": "2610_0",
+    "stop": "Av J Francisco Guerreiro (P Combutível)",
+    "route": "2610_0"
+  },
+  "42|1214": {
+    "real_number": "2776_0",
+    "stop": "En 8 (Olival Basto)",
+    "route": "2776_0"
+  },
+  "42|2511": {
+    "real_number": "2831_0",
+    "stop": "R Rainha D Leonor 230 (Vale Grande)",
+    "route": "2831_0"
+  },
+  "42|2553": {
+    "real_number": "2831_0",
+    "stop": "R Cidade de Loures (Escola)",
+    "route": "2831_0"
+  },
+  "42|2531": {
+    "real_number": "2202_0",
+    "stop": "R Bombeiros Voluntários",
+    "route": "2202_0"
+  },
+  "42|374": {
+    "real_number": "2824_0",
+    "stop": "R Bombeiros Voluntários 9",
+    "route": "2824_0"
+  },
+  "42|2533": {
+    "real_number": "2781_0",
+    "stop": "Odivelas (Metro) P5",
+    "route": "2781_0"
+  },
+  "42|2598": {
+    "real_number": "2219_0",
+    "stop": "Odivelas (Metro) P7",
+    "route": "2219_0"
+  },
+  "42|2200": {
+    "real_number": "2811_0",
+    "stop": "R Maria do Céu 25",
+    "route": "2811_0"
+  },
+  "41|1279": {
+    "real_number": "1722_0",
+    "stop": "Alfragide (Centro Comercial)",
+    "route": "1722_0"
+  },
+  "41|1156": {
+    "real_number": "1101_1",
+    "stop": "Av Professor D Bernardino Machado",
+    "route": "1101_1"
+  },
+  "41|1266": {
+    "real_number": "1103_0",
+    "stop": "Av Prof Reinaldo Santos (Hosp Sta Cruz)",
+    "route": "1103_0"
+  },
+  "41|1259": {
+    "real_number": "1522_0",
+    "stop": "R Aquilino Ribeiro (Esc Preparatória)",
+    "route": "1522_0"
+  },
+  "41|1209": {
+    "real_number": "1722_0",
+    "stop": "Linda-a-velha (Alto Stª Catarina)",
+    "route": "1722_0"
+  },
+  "41|1321": {
+    "real_number": "1722_0",
+    "stop": "R Direita - Aquário Vasco Gama",
+    "route": "1722_0"
+  },
+  "41|1808": {
+    "real_number": "1101_0",
+    "stop": "Algés (Estação) P11",
+    "route": "1101_0"
+  },
+  "41|1268": {
+    "real_number": "1101_1",
+    "stop": "R Manuel Ferreira 12",
+    "route": "1101_1"
+  },
+  "41|1345": {
+    "real_number": "1528_0",
+    "stop": "Av Tomás Ribeiro 58",
+    "route": "1528_0"
+  },
+  "41|1257": {
+    "real_number": "1503_0",
+    "stop": "Carnaxide (Av Portugal)",
+    "route": "1503_0"
+  },
+  "41|1151": {
+    "real_number": "1726_0",
+    "stop": "R Aquilino Ribeiro 3",
+    "route": "1726_0"
+  },
+  "41|1286": {
+    "real_number": "1528_0",
+    "stop": "Av 25 de Abril - Central Park",
+    "route": "1528_0"
+  },
+  "41|1252": {
+    "real_number": "1724_3",
+    "stop": "Linda-a-velha",
+    "route": "1724_3"
+  },
+  "41|1280": {
+    "real_number": "1503_0",
+    "stop": "Av Bomb Voluntários Algés (Pav Desp)",
+    "route": "1503_0"
+  },
+  "41|1297": {
+    "real_number": "1724_0",
+    "stop": "Av 25 de Abril - Central Park",
+    "route": "1724_0"
+  },
+  "41|1246": {
+    "real_number": "1103_0",
+    "stop": "Av 25 de Abril Fte 22",
+    "route": "1103_0"
+  },
+  "41|1204": {
+    "real_number": "1103_0",
+    "stop": "R João Chagas - Esc Preparatória",
+    "route": "1103_0"
+  },
+  "41|1309": {
+    "real_number": "1723_0",
+    "stop": "Av Forte (Proteção Civil)",
+    "route": "1723_0"
+  },
+  "41|1334": {
+    "real_number": "1507_0",
+    "stop": "Av Tomás Ribeiro (X) Visconde m rey",
+    "route": "1507_0"
+  },
+  "41|1707": {
+    "real_number": "1111_0",
+    "stop": "R João XXI 10",
+    "route": "1111_0"
+  },
+  "41|1307": {
+    "real_number": "1729_0",
+    "stop": "R Açores 32",
+    "route": "1729_0"
+  },
+  "41|1271": {
+    "real_number": "1106_1",
+    "stop": "Av Pierre Coubertin",
+    "route": "1106_1"
+  },
+  "41|1290": {
+    "real_number": "1522_0",
+    "stop": "Algés (Estação) P1",
+    "route": "1522_0"
+  },
+  "41|1109": {
+    "real_number": "1715_0",
+    "stop": "Algés (Estação) P4",
+    "route": "1715_0"
+  },
+  "41|1364": {
+    "real_number": "1713_0",
+    "stop": "Av Gen Norton Matos - Clínica",
+    "route": "1713_0"
+  },
+  "41|1192": {
+    "real_number": "1522_0",
+    "stop": "Av Carolina Michaellis (Esc Cond)",
+    "route": "1522_0"
+  },
+  "41|1254": {
+    "real_number": "1522_0",
+    "stop": "Estr Militar 1",
+    "route": "1522_0"
+  },
+  "41|1126": {
+    "real_number": "1717_0",
+    "stop": "R Mario Castelhano (Consiglieri Park)",
+    "route": "1717_0"
+  },
+  "41|1715": {
+    "real_number": "1109_0",
+    "stop": "R Qta Pinheiro (Fte X) R Alto Montijo",
+    "route": "1109_0"
+  },
+  "41|1239": {
+    "real_number": "1520_0",
+    "stop": "Barcarena (Bombeiros)",
+    "route": "1520_0"
+  },
+  "41|1277": {
+    "real_number": "1525_1",
+    "stop": "Barcarena (Bombeiros)",
+    "route": "1525_1"
+  },
+  "41|1110": {
+    "real_number": "1525_1",
+    "stop": "Barcarena (Rotunda)",
+    "route": "1525_1"
+  },
+  "41|1282": {
+    "real_number": "1617_0",
+    "stop": "Estr Leceia (Fte X) Caminho Serra",
+    "route": "1617_0"
+  },
+  "41|1710": {
+    "real_number": "1115_0",
+    "stop": "Av Cons Ferreira Lobo 40",
+    "route": "1115_0"
+  },
+  "41|1719": {
+    "real_number": "1122_0",
+    "stop": "Laveiras (Coreto)",
+    "route": "1122_0"
+  },
+  "41|1704": {
+    "real_number": "1115_0",
+    "stop": "Estr de Oeiras 10",
+    "route": "1115_0"
+  },
+  "41|1906": {
+    "real_number": "1607_0",
+    "stop": "Av A Bern Cabral Macedo (Pq Poetas)",
+    "route": "1607_0"
+  },
+  "41|1289": {
+    "real_number": "1525_0",
+    "stop": "R Jorge Rivotti (X) R a Vasconcelos",
+    "route": "1525_0"
+  },
+  "41|1270": {
+    "real_number": "1733_0",
+    "stop": "Porto Salvo (Qta Fonte)",
+    "route": "1733_0"
+  },
+  "41|1162": {
+    "real_number": "1120_0",
+    "stop": "R Desembargador Faria (Ina)",
+    "route": "1120_0"
+  },
+  "41|1255": {
+    "real_number": "1725_0",
+    "stop": "Oeiras (Bº Augusto Castro)",
+    "route": "1725_0"
+  },
+  "41|1120": {
+    "real_number": "1120_0",
+    "stop": "Av A B Cab Macedo (X) R Joaquim Quirino",
+    "route": "1120_0"
+  },
+  "41|1360": {
+    "real_number": "1120_0",
+    "stop": "Av Ultramar (Jardim)",
+    "route": "1120_0"
+  },
+  "41|1278": {
+    "real_number": "1601_1",
+    "stop": "Av D João I - Escola Preparatória",
+    "route": "1601_1"
+  },
+  "41|1714": {
+    "real_number": "1121_0",
+    "stop": "R da Quinta Grande 18",
+    "route": "1121_0"
+  },
+  "41|1247": {
+    "real_number": "1529_0",
+    "stop": "Estr Oeiras (Posto Combust)",
+    "route": "1529_0"
+  },
+  "41|735": {
+    "real_number": "1604_0",
+    "stop": "Av Salvador Allende 35 (C Saúde)",
+    "route": "1604_0"
+  },
+  "41|1718": {
+    "real_number": "1122_0",
+    "stop": "Pça Dionísio Matias (Mercado)",
+    "route": "1122_0"
+  },
+  "41|1150": {
+    "real_number": "1601_1",
+    "stop": "R Conde Rio Maior (Igreja)",
+    "route": "1601_1"
+  },
+  "41|1173": {
+    "real_number": "1123_0",
+    "stop": "Porto Salvo (M Rolas)",
+    "route": "1123_0"
+  },
+  "41|1711": {
+    "real_number": "1125_0",
+    "stop": "Talaíde (B Naveg)",
+    "route": "1125_0"
+  },
+  "41|1260": {
+    "real_number": "1529_0",
+    "stop": "R Fern Sabido (X) Av Doming Vandelli",
+    "route": "1529_0"
+  },
+  "41|1132": {
+    "real_number": "1502_0",
+    "stop": "Algés Cima",
+    "route": "1502_0"
+  },
+  "41|1273": {
+    "real_number": "1724_0",
+    "stop": "R Eng J F Ulrich(x)r D Dom Fernandes",
+    "route": "1724_0"
+  },
+  "41|1861": {
+    "real_number": "1731_0",
+    "stop": "Taguspark (BCP)",
+    "route": "1731_0"
+  },
+  "41|1154": {
+    "real_number": "1731_0",
+    "stop": "Taguspark (BCP)",
+    "route": "1731_0"
+  },
+  "41|1171": {
+    "real_number": "1601_1",
+    "stop": "Estr Consigl Pedroso (Esc Primária)",
+    "route": "1601_1"
+  },
+  "41|1397": {
+    "real_number": "1608_0",
+    "stop": "Av Prof Dr Cavaco Silva 19",
+    "route": "1608_0"
+  },
+  "41|1346": {
+    "real_number": "1617_0",
+    "stop": "Taguspark (Rotunda SEF)",
+    "route": "1617_0"
+  },
+  "41|1339": {
+    "real_number": "1525_1",
+    "stop": "Tercena (e R 25 Ab)",
+    "route": "1525_1"
+  },
+  "41|1261": {
+    "real_number": "1528_0",
+    "stop": "Tercena (Av Sto António)",
+    "route": "1528_0"
+  },
+  "41|1181": {
+    "real_number": "1617_0",
+    "stop": "Taguspark (BCP)",
+    "route": "1617_0"
+  },
+  "41|1417": {
+    "real_number": "1614_1",
+    "stop": "Av República 15",
+    "route": "1614_1"
+  },
+  "41|1391": {
+    "real_number": "1615_1",
+    "stop": "Av Inf D Henrique (Clínica)",
+    "route": "1615_1"
+  },
+  "41|1901": {
+    "real_number": "1608_0",
+    "stop": "R Mina - Bairro Mina (Chafariz)",
+    "route": "1608_0"
+  },
+  "41|1379": {
+    "real_number": "1608_0",
+    "stop": "R Dr José Carlos Moreira 8",
+    "route": "1608_0"
+  },
+  "41|1205": {
+    "real_number": "1717_0",
+    "stop": "Avenida Infante Dom Henrique (Igreja)",
+    "route": "1717_0"
+  },
+  "44|12608": {
+    "real_number": "4307_0",
+    "stop": "PALMELA (AV CAMINHOS FERRO 16) ESTAÇ CP",
+    "route": "4307_0"
+  },
+  "44|12582": {
+    "real_number": "4562_0",
+    "stop": "VOLTA PEDRA (EN 379) X EN 252",
+    "route": "4562_0"
+  },
+  "44|12550": {
+    "real_number": "4542_0",
+    "stop": "Estrada Municipal 542 (X) Rua do Fandanguinho",
+    "route": "4542_0"
+  },
+  "44|12539": {
+    "real_number": "4562_0",
+    "stop": "CABANAS (ESC PRIMÁRIA)",
+    "route": "4562_0"
+  },
+  "44|12552": {
+    "real_number": "4524_0",
+    "stop": "LAGOA CALVO (EM 533) X FORNINHO",
+    "route": "4524_0"
+  },
+  "44|12743": {
+    "real_number": "4307_0",
+    "stop": "POCEIRÃO (EN 5) PASSAGEM NIVEL",
+    "route": "4307_0"
+  },
+  "44|12557": {
+    "real_number": "4521_0",
+    "stop": "LAU (EM 533) ( ASSOCIAÇÃO MORADORES LAU)",
+    "route": "4521_0"
+  },
+  "44|12670": {
+    "real_number": "4710_0",
+    "stop": "VOLTA PEDRA (AV ALBERTO VALENTE 72)",
+    "route": "4710_0"
+  },
+  "44|12643": {
+    "real_number": "4544_0",
+    "stop": "Bº MARGAÇA (EM1038 X R SESMARIAS PATO)",
+    "route": "4544_0"
+  },
+  "44|12562": {
+    "real_number": "4312_0",
+    "stop": "Escola Básica e Secundária José Saramago",
+    "route": "4312_0"
+  },
+  "44|12603": {
+    "real_number": "4521_0",
+    "stop": "Estrada Nacional 5",
+    "route": "4521_0"
+  },
+  "44|12696": {
+    "real_number": "4512_1",
+    "stop": "PINHAL NOVO (AV ALEX HERCULANO 44)",
+    "route": "4512_1"
+  },
+  "44|12649": {
+    "real_number": "4320_0",
+    "stop": "PINHAL NOVO (R P JOSÉ ESTEVENS DIAS 145)",
+    "route": "4320_0"
+  },
+  "44|12578": {
+    "real_number": "4322_0",
+    "stop": "Escola Básica José Maria dos Santos",
+    "route": "4322_0"
+  },
+  "44|12646": {
+    "real_number": "4322_0",
+    "stop": "PINHAL NOVO (GNR)",
+    "route": "4322_0"
+  },
+  "44|12568": {
+    "real_number": "4321_0",
+    "stop": "PINHAL NOVO (R G COUTINHO E S CABRAL 171)",
+    "route": "4321_0"
+  },
+  "44|12730": {
+    "real_number": "4549_0",
+    "stop": "AIRES (EN 252) QTA SAPEC",
+    "route": "4549_0"
+  },
+  "44|12503": {
+    "real_number": "4512_0",
+    "stop": "MIRAVENTOS (EN 252)",
+    "route": "4512_0"
+  },
+  "44|12747": {
+    "real_number": "4562_0",
+    "stop": "AIRES (EN 252 3)",
+    "route": "4562_0"
+  },
+  "44|12547": {
+    "real_number": "4514_3",
+    "stop": "ALDEIA NOVA AROEIRA ( ESCOLA PRIMÁRIA)",
+    "route": "4514_3"
+  },
+  "44|12524": {
+    "real_number": "4905_0",
+    "stop": "R FOROS PASSARINHAS XR JOSÉ G SANHEIRO",
+    "route": "4905_0"
+  },
+  "44|12605": {
+    "real_number": "4901_0",
+    "stop": "EN 10 () X GÂMBIA C- Bº BONITA",
+    "route": "4901_0"
+  },
+  "44|12706": {
+    "real_number": "4906_0",
+    "stop": "PEGÕES (N10 CAMPO E.M. AGRICULTURA)",
+    "route": "4906_0"
+  },
+  "44|12583": {
+    "real_number": "4551_0",
+    "stop": "PALMELA (ARMAZÉNS GERAIS MUN.)",
+    "route": "4551_0"
+  },
+  "44|12060": {
+    "real_number": "4612_0",
+    "stop": "Estrada Circular Norte Lote 219",
+    "route": "4612_0"
+  },
+  "44|12715": {
+    "real_number": "4710_0",
+    "stop": "Praça José Maria dos Santos (Jardim) P2",
+    "route": "4710_0"
+  },
+  "43|2115": {
+    "real_number": "3601_0",
+    "stop": "EN 10 (PLACA LOCALIDADE)",
+    "route": "3601_0"
+  },
+  "44|12703": {
+    "real_number": "4730_0",
+    "stop": "PAIO PIRES X (EN10 KM 14)",
+    "route": "4730_0"
+  },
+  "44|12071": {
+    "real_number": "4621_0",
+    "stop": "Estação do Fogueteiro P3",
+    "route": "4621_0"
+  },
+  "43|2387": {
+    "real_number": "3508_0",
+    "stop": "ARRENTELA (AV CARLOS OLIV86)QTA S JOÃO",
+    "route": "3508_0"
+  },
+  "43|2337": {
+    "real_number": "3113_0",
+    "stop": "SEIXAL (AV MANUEL FONSECA 16)",
+    "route": "3113_0"
+  },
+  "43|2336": {
+    "real_number": "3514_0",
+    "stop": "Corroios Estação P4",
+    "route": "3514_0"
+  },
+  "43|2358": {
+    "real_number": "3103_0",
+    "stop": "STA MARTA AV 25 ABRIL (ZONA INDUSTRIAL)",
+    "route": "3103_0"
+  },
+  "43|2215": {
+    "real_number": "3508_0",
+    "stop": "STA M CORROIOS (AV 25 ABRIL) POSTO ABAST",
+    "route": "3508_0"
+  },
+  "43|2112": {
+    "real_number": "3536_0",
+    "stop": "PAIVAS (AV 1º MAIO) FINANÇAS",
+    "route": "3536_0"
+  },
+  "43|2009": {
+    "real_number": "3118_1",
+    "stop": "CRUZ PAU (CENTRO) (AV 1º MAIO) ROTUNDA",
+    "route": "3118_1"
+  },
+  "43|2354": {
+    "real_number": "3101_0",
+    "stop": "CRUZ PAU (R INF D AUGUSTO N36)",
+    "route": "3101_0"
+  },
+  "43|2355": {
+    "real_number": "3101_0",
+    "stop": "CRUZ PAU (R INF D AUGUSTO N36)",
+    "route": "3101_0"
+  },
+  "43|2370": {
+    "real_number": "3521_0",
+    "stop": "AV VERDIZELA (CENTRO COMERCIAL)",
+    "route": "3521_0"
+  },
+  "43|2289": {
+    "real_number": "3521_1",
+    "stop": "AV VERDIZELA (CENTRO COMERCIAL)",
+    "route": "3521_1"
+  },
+  "43|2348": {
+    "real_number": "3521_0",
+    "stop": "PINHAL C CUNHA (R ADOLFO CAS MONT) 74",
+    "route": "3521_0"
+  },
+  "43|2290": {
+    "real_number": "3505_0",
+    "stop": "TORRE MARINHA AV RESIS ANTIFASCIST 57",
+    "route": "3505_0"
+  },
+  "43|2016": {
+    "real_number": "3118_0",
+    "stop": "ARRENTELA AV REPÚBLICA 17 (X) PR LIBER",
+    "route": "3118_0"
+  },
+  "43|2362": {
+    "real_number": "3112_0",
+    "stop": "SEIXAL (AV METALÚRGICOS 49)",
+    "route": "3112_0"
+  },
+  "43|2345": {
+    "real_number": "3111_1",
+    "stop": "P PIRES AV METALÚRGICOS 101A (ESCOLA)",
+    "route": "3111_1"
+  },
+  "43|2214": {
+    "real_number": "3111_1",
+    "stop": "P PIRES (AV METALÚRG 146) CASAL STO ANT",
+    "route": "3111_1"
+  },
+  "43|2343": {
+    "real_number": "3112_0",
+    "stop": "PAIO PIRES (AV METALÚRGICOS) BEIRA-RIO",
+    "route": "3112_0"
+  },
+  "43|2363": {
+    "real_number": "3523_1",
+    "stop": "P PIRES (R TOMÁS MELO 8) QTA FLAMÂNCIA",
+    "route": "3523_1"
+  },
+  "43|2366": {
+    "real_number": "3114_0",
+    "stop": "PAIO PIRES (QTA FLAMÂNCIA)R GEN H DEL 34",
+    "route": "3114_0"
+  },
+  "43|2359": {
+    "real_number": "3119_0",
+    "stop": "AMORA (R DR EMIDIO GUI GAR MENDES 32)",
+    "route": "3119_0"
+  },
+  "43|2352": {
+    "real_number": "3119_0",
+    "stop": "AMORA (R DR EMIDIO GUI GAR MENDES 32)",
+    "route": "3119_0"
+  },
+  "43|2374": {
+    "real_number": "3103_0",
+    "stop": "CAVADAS R 25 ABRIL (ESCOLA)",
+    "route": "3103_0"
+  },
+  "43|2291": {
+    "real_number": "3120_0",
+    "stop": "CAVADAS R 25 ABRIL 60 (FARMÁCIA)",
+    "route": "3120_0"
+  },
+  "43|2286": {
+    "real_number": "3111_0",
+    "stop": "AV 1º MAIO N105 (COLÉGIO EXTERNATO)",
+    "route": "3111_0"
+  },
+  "43|2329": {
+    "real_number": "3527_0",
+    "stop": "P PIRES AV GEN H DELG (X) AV J RELVAS",
+    "route": "3527_0"
+  },
+  "43|2200": {
+    "real_number": "3103_0",
+    "stop": "CRUZ PAU (R 25 ABRIL 83)",
+    "route": "3103_0"
+  },
+  "43|2223": {
+    "real_number": "3104_0",
+    "stop": "CORROIOS (AV VL MILHAÇOS 30) - C SAÚDE",
+    "route": "3104_0"
+  },
+  "43|2205": {
+    "real_number": "3104_0",
+    "stop": "AV PINHAL VIDAL 95 (PARQUE IGREJA)",
+    "route": "3104_0"
+  },
+  "43|2213": {
+    "real_number": "3105_0",
+    "stop": "PINHAL FRADES (AV 25 ABRIL 581)",
+    "route": "3105_0"
+  },
+  "43|2615": {
+    "real_number": "3107_0",
+    "stop": "P FRADES (AV 25 ABRIL) CENTRO SOCIAL",
+    "route": "3107_0"
+  },
+  "43|2357": {
+    "real_number": "3105_0",
+    "stop": "AV 25 ABRIL (ESCOLA BÁSICA P FRADES)",
+    "route": "3105_0"
+  },
+  "43|2340": {
+    "real_number": "3105_0",
+    "stop": "CASAL MARCO (R CASAL MARCO 172)",
+    "route": "3105_0"
+  },
+  "43|2608": {
+    "real_number": "3106_0",
+    "stop": "RUA DA CASA BRANCA",
+    "route": "3106_0"
+  },
+  "43|2602": {
+    "real_number": "3541_0",
+    "stop": "FERNÃO FERRO (R LUIS CAMÕES 266)",
+    "route": "3541_0"
+  },
+  "43|2209": {
+    "real_number": "3120_0",
+    "stop": "Estação do Fogueteiro P6",
+    "route": "3120_0"
+  },
+  "43|2349": {
+    "real_number": "3120_0",
+    "stop": "REDONDOS AV LIBERDADE 4A (ESCOLA)",
+    "route": "3120_0"
+  },
+  "43|2388": {
+    "real_number": "3615_0",
+    "stop": "AV GEN H DELGADO (X) TR DA LAGOA SECA",
+    "route": "3615_0"
+  },
+  "43|2377": {
+    "real_number": "3111_1",
+    "stop": "SEIXALR SILVANA AL CUNHA (X) ROTUNDA",
+    "route": "3111_1"
+  },
+  "43|2250": {
+    "real_number": "3605_0",
+    "stop": "FOGUETEIRO AV LIBER TIMOR LOR (DESCIDA)",
+    "route": "3605_0"
+  },
+  "43|2353": {
+    "real_number": "3526_0",
+    "stop": "VL MILHAÇOS R INF D HENRIQ 116",
+    "route": "3526_0"
+  },
+  "43|2210": {
+    "real_number": "3116_0",
+    "stop": "ALAMEDA DIEGO DE VELASQUEZ N184",
+    "route": "3116_0"
+  },
+  "43|2220": {
+    "real_number": "3119_0",
+    "stop": "R ASSIS PACHECO (X) R CURVO SEMEDO",
+    "route": "3119_0"
+  },
+  "43|2389": {
+    "real_number": "3513_0",
+    "stop": "CORROIOS(R CID ALMADA) FARMACIA MERCADO",
+    "route": "3513_0"
+  },
+  "43|2014": {
+    "real_number": "3518_0",
+    "stop": "CORROIOS(R CID ALMADA) FARMACIA MERCADO",
+    "route": "3518_0"
+  },
+  "43|2207": {
+    "real_number": "3513_0",
+    "stop": "ESTRADA STA MARTA PINHAL (GISPARQUES)",
+    "route": "3513_0"
+  },
+  "43|2376": {
+    "real_number": "3526_0",
+    "stop": "CORROIOS(ESTR STA MARTA PINHAL) PISCINAS",
+    "route": "3526_0"
+  },
+  "43|2042": {
+    "real_number": "3525_0",
+    "stop": "MIRATEJO ALAMEDA 25 ABRIL 11 (ROTUNDA)",
+    "route": "3525_0"
+  },
+  "43|2043": {
+    "real_number": "3506_0",
+    "stop": "QTA ROUXINOL (AV LUIS CAMÕES 9A)",
+    "route": "3506_0"
+  },
+  "43|2368": {
+    "real_number": "3526_1",
+    "stop": "QTA BRASILEIRO (R ROUXINOL N13)",
+    "route": "3526_1"
+  },
+  "43|2330": {
+    "real_number": "3512_0",
+    "stop": "QTA PRINCESA (R CIDADE LUANDA I)",
+    "route": "3512_0"
+  },
+  "43|2611": {
+    "real_number": "3547_0",
+    "stop": "REDONDOS (R AGOSTINHO SILVA LTE 78)",
+    "route": "3547_0"
+  },
+  "43|2601": {
+    "real_number": "4325",
+    "stop": "PINHAL GENERAL (ROTUNDA) AV 25 OUT 4325",
+    "route": "3546_0"
+  },
+  "43|361": {
+    "real_number": "3721_0",
+    "stop": "FLOR MATA (EN378-R 23 JUL 1933) QTA PALM",
+    "route": "3721_0"
+  },
+  "43|356": {
+    "real_number": "3721_0",
+    "stop": "FERNÃO FERRO EN378 (X) R CAETANO LIMA",
+    "route": "3721_0"
+  },
+  "43|2109": {
+    "real_number": "3721_0",
+    "stop": "FERNÃO FERRO (EN 378) ARTESANATO",
+    "route": "3721_0"
+  },
+  "43|2614": {
+    "real_number": "3620_0",
+    "stop": "Coina (Estação) P3",
+    "route": "3620_0"
+  },
+  "43|2384": {
+    "real_number": "3715_0",
+    "stop": "ALTO MOINHO (R DESCOBERTAS N17)",
+    "route": "3715_0"
+  },
+  "43|2027": {
+    "real_number": "3121_0",
+    "stop": "Rua Atlético Clube de Arrentela (Escola)",
+    "route": "3121_0"
+  },
+  "43|2221": {
+    "real_number": "3113_0",
+    "stop": "Seixal-Terminal Fluvial P4",
+    "route": "3113_0"
+  },
+  "43|518": {
+    "real_number": "3525_0",
+    "stop": "Corroios Estação P1",
+    "route": "3525_0"
+  },
+  "43|2222": {
+    "real_number": "3526_1",
+    "stop": "Corroios Estação P2",
+    "route": "3526_1"
+  },
+  "43|2616": {
+    "real_number": "3620_0",
+    "stop": "QTA CONDE (EN10) PARQUE VILA",
+    "route": "3620_0"
+  },
+  "43|642": {
+    "real_number": "3626_0",
+    "stop": "QTA CONDE (EN10) POSTO ABASTECIMENTO",
+    "route": "3626_0"
+  },
+  "43|662": {
+    "real_number": "3535_0",
+    "stop": "QTA CONDE (AV PRINCIPAL 2594)",
+    "route": "3535_0"
+  },
+  "43|2613": {
+    "real_number": "3626_0",
+    "stop": "QTA CONDE (AV LIBERDADE 366)",
+    "route": "3626_0"
+  },
+  "43|2102": {
+    "real_number": "3543_0",
+    "stop": "QTA CONDE (AV LIBERDADE 24)",
+    "route": "3543_0"
+  },
+  "43|2106": {
+    "real_number": "3721_0",
+    "stop": "SESIMBRA (EN378 AV COSTA AZUL) TELEFONES",
+    "route": "3721_0"
+  },
+  "43|2604": {
+    "real_number": "3635_0",
+    "stop": "SANTANA - JARDIM",
+    "route": "3635_0"
+  },
+  "43|638": {
+    "real_number": "3211_0",
+    "stop": "SANTANA (AV SERGIO V MELO) ROTUNDA",
+    "route": "3211_0"
+  },
+  "43|670": {
+    "real_number": "3215_0",
+    "stop": "ZAMBUJAL BX (EM 521) MÁRMORES",
+    "route": "3215_0"
+  },
+  "43|565": {
+    "real_number": "3217_0",
+    "stop": "ZAMBUJAL C (AV 25 ABRIL) EDUARDO",
+    "route": "3217_0"
+  },
+  "43|644": {
+    "real_number": "3544_0",
+    "stop": "SANTANA (AV J PAULO II (X) R J SENA)",
+    "route": "3544_0"
+  },
+  "43|2105": {
+    "real_number": "3536_0",
+    "stop": "VENDA NOVA (EN 378 AV J PAULO II) ROTUNDA",
+    "route": "3536_0"
+  },
+  "43|758": {
+    "real_number": "3214_0",
+    "stop": "SAMPAIO (ESCOLAS) TERMINAL",
+    "route": "3214_0"
+  },
+  "43|2033": {
+    "real_number": "3216_0",
+    "stop": "MAÇÃ (R FONTE MAÇÃ) AUTO",
+    "route": "3216_0"
+  },
+  "43|15": {
+    "real_number": "3218_0",
+    "stop": "PORTO ABRIGO",
+    "route": "3218_0"
+  },
+  "43|16": {
+    "real_number": "3220_0",
+    "stop": "R CRUZ - REFEITÓRIO CMS",
+    "route": "3220_0"
+  },
+  "43|2606": {
+    "real_number": "3620_0",
+    "stop": "AVª COVA VIDROS - J FREGUESIA",
+    "route": "3620_0"
+  },
+  "43|2026": {
+    "real_number": "3222_0",
+    "stop": "Centro de Saúde da Quinta do Conde",
+    "route": "3222_0"
+  },
+  "44|12064": {
+    "real_number": "4438_0",
+    "stop": "SETÚBAL (AV AFONSO ALBUQUERQUE 9)",
+    "route": "4438_0"
+  },
+  "44|12083": {
+    "real_number": "4441_0",
+    "stop": "SETÚBAL (PÇA TOUROS) HOSPITAL",
+    "route": "4441_0"
+  },
+  "44|12080": {
+    "real_number": "4401_0",
+    "stop": "SETÚBAL (AV B J CARAÇA) IGREJA N S CONC",
+    "route": "4401_0"
+  },
+  "44|12546": {
+    "real_number": "4412_0",
+    "stop": "SETÚBAL (ESC SEC D MANUEL MARTINS)",
+    "route": "4412_0"
+  },
+  "44|13990": {
+    "real_number": "4436_0",
+    "stop": "SETÚBAL (AV JAIME CORTESÃO 4)",
+    "route": "4436_0"
+  },
+  "44|12085": {
+    "real_number": "4427_0",
+    "stop": "SETÚBAL (AV BENTO GONÇ)CENTRO COMERCIAL",
+    "route": "4427_0"
+  },
+  "44|12063": {
+    "real_number": "4403_0",
+    "stop": "SETÚBAL (AV RODRIGUES MANITO 201)",
+    "route": "4403_0"
+  },
+  "44|12590": {
+    "real_number": "4403_0",
+    "stop": "SETÚBAL (AV 22 DEZEMBRO 25)",
+    "route": "4403_0"
+  },
+  "44|12073": {
+    "real_number": "4422_3",
+    "stop": "Avenida 22 de Dezembro Frente 74",
+    "route": "4422_3"
+  },
+  "44|12733": {
+    "real_number": "4403_0",
+    "stop": "SETÚBAL (AV REP GUINÉ-BISSAU11) MACONDE",
+    "route": "4403_0"
+  },
+  "44|12088": {
+    "real_number": "4406_0",
+    "stop": "Avenida Alexandre Herculano (Escola) P1",
+    "route": "4406_0"
+  },
+  "44|12519": {
+    "real_number": "4562_0",
+    "stop": "SETÚBAL (NOVA SINTRA) ESC BÁSICA AZEDA",
+    "route": "4562_0"
+  },
+  "44|12612": {
+    "real_number": "4426_0",
+    "stop": "SETÚBAL (R PD JOSÉ Mª NUNES SILVA 30)",
+    "route": "4426_0"
+  },
+  "44|12058": {
+    "real_number": "4429_0",
+    "stop": "SETÚBAL (AV ANTERO QUENTAL 71) VIADUTO",
+    "route": "4429_0"
+  },
+  "44|12569": {
+    "real_number": "4412_0",
+    "stop": "Alameda do Pinheiro 65",
+    "route": "4412_0"
+  },
+  "44|12093": {
+    "real_number": "4409_0",
+    "stop": "SETÚBAL (AV ALENTEJO 6)",
+    "route": "4409_0"
+  },
+  "44|12098": {
+    "real_number": "4420_0",
+    "stop": "Avenida Fernando Lopes Graça (Espaço Comercial)",
+    "route": "4420_0"
+  },
+  "44|12065": {
+    "real_number": "4426_0",
+    "stop": "SETÚBAL (R NOSSA S CARMO) ESC",
+    "route": "4426_0"
+  },
+  "44|12731": {
+    "real_number": "4409_0",
+    "stop": "SETÚBAL ( ESC SECUNDÁRIA VISO)",
+    "route": "4409_0"
+  },
+  "44|12055": {
+    "real_number": "4437_0",
+    "stop": "CURVAS X",
+    "route": "4437_0"
+  },
+  "44|12094": {
+    "real_number": "4428_0",
+    "stop": "Avenida Mestre Lima de Freitas 41",
+    "route": "4428_0"
+  },
+  "44|12586": {
+    "real_number": "4443_0",
+    "stop": "R DO ALTO GUERRA 2",
+    "route": "4443_0"
+  },
+  "44|12737": {
+    "real_number": "4422_0",
+    "stop": "SETÚBAL(AV AVELAR BROTERO)BºCAMOLAS-TERM",
+    "route": "4422_0"
+  },
+  "44|12508": {
+    "real_number": "4422_3",
+    "stop": "Avenida dos Ciprestes 112",
+    "route": "4422_3"
+  },
+  "44|12674": {
+    "real_number": "4730_0",
+    "stop": "Avenida General Daniel de Sousa 4",
+    "route": "4730_0"
+  },
+  "44|12075": {
+    "real_number": "4422_0",
+    "stop": "SETÚBAL (R NOSSA S CARMO) JARDIM",
+    "route": "4422_0"
+  },
+  "44|12067": {
+    "real_number": "4422_0",
+    "stop": "SETÚBAL (R VIDAIS 25)",
+    "route": "4422_0"
+  },
+  "44|12078": {
+    "real_number": "4512_0",
+    "stop": "Avenida dos Ciprestes 144",
+    "route": "4512_0"
+  },
+  "44|12736": {
+    "real_number": "4403_0",
+    "stop": "SETÚBAL (AV D PEDRO V) TERMINAL",
+    "route": "4403_0"
+  },
+  "44|12079": {
+    "real_number": "4428_0",
+    "stop": "Praça Almirante Reis (Combatentes)",
+    "route": "4428_0"
+  },
+  "43|2101": {
+    "real_number": "3642_0",
+    "stop": "Estrada Nacional 10 42",
+    "route": "3642_0"
+  },
+  "43|2255": {
+    "real_number": "3605_0",
+    "stop": "Estrada Nacional 10 (X) Rua do Casal dos Altos",
+    "route": "3605_0"
+  },
+  "44|12077": {
+    "real_number": "4434_0",
+    "stop": "SETÚBAL (AV INFANTE D HENRIQUE11)",
+    "route": "4434_0"
+  },
+  "44|12074": {
+    "real_number": "4438_0",
+    "stop": "SETÚBAL (MONTE BELO NORTE) TERMINAL",
+    "route": "4438_0"
+  },
+  "44|12635": {
+    "real_number": "4464_0",
+    "stop": "Praça da República",
+    "route": "4464_0"
+  },
+  "44|12561": {
+    "real_number": "4632_0",
+    "stop": "CASAL NOVO (EN 379)",
+    "route": "4632_0"
+  },
+  "44|12556": {
+    "real_number": "4562_0",
+    "stop": "PINHEIROS AZEITÃO X",
+    "route": "4562_0"
+  },
+  "44|12640": {
+    "real_number": "4432_0",
+    "stop": "Escola Básica Vila Fresca de Azeitão",
+    "route": "4432_0"
+  },
+  "43|661": {
+    "real_number": "3626_0",
+    "stop": "Rua de Lisboa (Frente Parque do Morango)",
+    "route": "3626_0"
+  },
+  "44|12523": {
+    "real_number": "4544_0",
+    "stop": "EN 10 ( SUBESTAÇÃO EDP)",
+    "route": "4544_0"
+  },
+  "44|12540": {
+    "real_number": "4560_0",
+    "stop": "BREJOS AZEITÃO (R PADARIA 125)",
+    "route": "4560_0"
+  },
+  "43|673": {
+    "real_number": "3635_0",
+    "stop": "ALDEIA PIEDADE (ESTR S PEDRO)",
+    "route": "3635_0"
+  },
+  "43|2360": {
+    "real_number": "3642_0",
+    "stop": "ALDEIA PIEDADE (AV 25 ABR) X ESTR ARCOS",
+    "route": "3642_0"
+  },
+  "44|12647": {
+    "real_number": "4467_0",
+    "stop": "Escola Básica da Brejoeira",
+    "route": "4467_0"
+  },
+  "44|12689": {
+    "real_number": "4720_0",
+    "stop": "Várzea (Terminal) P2",
+    "route": "4720_0"
+  },
+  "44|12634": {
+    "real_number": "4405_0",
+    "stop": "Várzea (Terminal) P3",
+    "route": "4405_0"
+  },
+  "44|12691": {
+    "real_number": "4720_0",
+    "stop": "Setúbal (ITS) Interior P1",
+    "route": "4720_0"
+  },
+  "44|12592": {
+    "real_number": "4431_0",
+    "stop": "Interface de Transportes de Setúbal (Terminal) P4",
+    "route": "4431_0"
+  },
+  "44|12544": {
+    "real_number": "4544_0",
+    "stop": "Setúbal (ITS) Interior P6",
+    "route": "4544_0"
+  },
+  "41|1728": {
+    "real_number": "1201_0",
+    "stop": "Estr do À-do-Pipo 14",
+    "route": "1201_0"
+  },
+  "41|1900": {
+    "real_number": "1242_0",
+    "stop": "Av 5 Outubro Tasco",
+    "route": "1242_0"
+  },
+  "41|1383": {
+    "real_number": "1615_1",
+    "stop": "Estr Terras Lagoa (Centro Comercial)",
+    "route": "1615_1"
+  },
+  "41|1870": {
+    "real_number": "1251_0",
+    "stop": "Estr Terras da Lagoa (Rotunda)",
+    "route": "1251_0"
+  },
+  "41|1324": {
+    "real_number": "1224_0",
+    "stop": "Carregueira (Fte Estabelecimento Prisional)",
+    "route": "1224_0"
+  },
+  "41|729": {
+    "real_number": "1232_0",
+    "stop": "Av Maria Lamas 5 (Farmácia)",
+    "route": "1232_0"
+  },
+  "41|1889": {
+    "real_number": "1223_0",
+    "stop": "R da Ponte",
+    "route": "1223_0"
+  },
+  "41|1390": {
+    "real_number": "1625_1",
+    "stop": "Av Gago Coutinho 54",
+    "route": "1625_1"
+  },
+  "41|1420": {
+    "real_number": "1251_0",
+    "stop": "Estr Mem Martins (Supermercado)",
+    "route": "1251_0"
+  },
+  "41|1392": {
+    "real_number": "1223_0",
+    "stop": "Mem Martins (Farmácia)",
+    "route": "1223_0"
+  },
+  "41|739": {
+    "real_number": "1234_0",
+    "stop": "Av Dr Luís Sá (Posto Abast)",
+    "route": "1234_0"
+  },
+  "41|1412": {
+    "real_number": "1251_0",
+    "stop": "Cam Serradinho (Cimo Centro Comercial)",
+    "route": "1251_0"
+  },
+  "41|1104": {
+    "real_number": "1204_0",
+    "stop": "R Alecrim 17",
+    "route": "1204_0"
+  },
+  "41|1724": {
+    "real_number": "1210_0",
+    "stop": "Av Emb Aristídes S Mendes (Fte Finanças)",
+    "route": "1210_0"
+  },
+  "41|1878": {
+    "real_number": "1206_1",
+    "stop": "Av Marginal 108",
+    "route": "1206_1"
+  },
+  "41|1879": {
+    "real_number": "1206_1",
+    "stop": "R Cidade de Lagos (Supermercado)",
+    "route": "1206_1"
+  },
+  "41|1381": {
+    "real_number": "1249_0",
+    "stop": "Portela de Sintra (Estação) P6 Entrada Norte",
+    "route": "1249_0"
+  },
+  "41|542": {
+    "real_number": "1234_0",
+    "stop": "Av R Solnado (X) Av Amália Rodrigues",
+    "route": "1234_0"
+  },
+  "41|1211": {
+    "real_number": "1251_0",
+    "stop": "R P Moçambique (X) R Eça De Queirós",
+    "route": "1251_0"
+  },
+  "41|1732": {
+    "real_number": "1637_0",
+    "stop": "Estr Principal 2",
+    "route": "1637_0"
+  },
+  "41|541": {
+    "real_number": "1208_0",
+    "stop": "Vale Lobos (Largo)",
+    "route": "1208_0"
+  },
+  "41|1354": {
+    "real_number": "1235_0",
+    "stop": "Estr do Telhal (Apeadeiro do Telhal)",
+    "route": "1235_0"
+  },
+  "41|749": {
+    "real_number": "1235_0",
+    "stop": "Estr do Telhal 37",
+    "route": "1235_0"
+  },
+  "41|1394": {
+    "real_number": "1622_0",
+    "stop": "R Carlos Lopes (Albiz Parques)",
+    "route": "1622_0"
+  },
+  "41|1396": {
+    "real_number": "1614_2",
+    "stop": "Bairro Tabaqueira (Mercado)",
+    "route": "1614_2"
+  },
+  "41|1135": {
+    "real_number": "1236_0",
+    "stop": "R da Esperança (Supermercado)",
+    "route": "1236_0"
+  },
+  "41|1197": {
+    "real_number": "1221_0",
+    "stop": "Av Bons Amigos (Largo)",
+    "route": "1221_0"
+  },
+  "41|1127": {
+    "real_number": "1219_0",
+    "stop": "Av Bomb Volunt (X) R Gen Humb Delgado",
+    "route": "1219_0"
+  },
+  "41|318": {
+    "real_number": "1209_1",
+    "stop": "Av Bomb Volunt (X) R Gen Humb Delgado",
+    "route": "1209_1"
+  },
+  "41|1264": {
+    "real_number": "1715_0",
+    "stop": "Av 25 Abril 120",
+    "route": "1715_0"
+  },
+  "41|1865": {
+    "real_number": "1220_0",
+    "stop": "R Elias Garcia (Supermercado)",
+    "route": "1220_0"
+  },
+  "41|1119": {
+    "real_number": "1222_0",
+    "stop": "R Elias Garcia 138",
+    "route": "1222_0"
+  },
+  "41|1237": {
+    "real_number": "1614_1",
+    "stop": "Bairro da Tabaqueira 44",
+    "route": "1614_1"
+  },
+  "41|1325": {
+    "real_number": "1718_0",
+    "stop": "Av Veiga Cunha 47",
+    "route": "1718_0"
+  },
+  "41|1336": {
+    "real_number": "1211_0",
+    "stop": "R Colaride 21",
+    "route": "1211_0"
+  },
+  "41|1860": {
+    "real_number": "1211_0",
+    "stop": "R Ramalho Ortigão 12",
+    "route": "1211_0"
+  },
+  "41|1913": {
+    "real_number": "1212_0",
+    "stop": "Venda Seca",
+    "route": "1212_0"
+  },
+  "41|1242": {
+    "real_number": "1212_0",
+    "stop": "Av Miguel Bombarda 156",
+    "route": "1212_0"
+  },
+  "41|1802": {
+    "real_number": "1226_0",
+    "stop": "Av Miguel Bombarda 82",
+    "route": "1226_0"
+  },
+  "41|1129": {
+    "real_number": "1716_0",
+    "stop": "Queluz - Belas (Estação)",
+    "route": "1716_0"
+  },
+  "41|819": {
+    "real_number": "1213_0",
+    "stop": "Av Cidade Londres 48",
+    "route": "1213_0"
+  },
+  "41|1807": {
+    "real_number": "1213_0",
+    "stop": "R Silva Porto 25 (Fte Escola)",
+    "route": "1213_0"
+  },
+  "42|2597": {
+    "real_number": "2605_0",
+    "stop": "Av Bons Amigos 46",
+    "route": "2605_0"
+  },
+  "41|1216": {
+    "real_number": "1223_0",
+    "stop": "R Pôr do Sol 6 (Atlético Cacém)",
+    "route": "1223_0"
+  },
+  "41|1337": {
+    "real_number": "1524_0",
+    "stop": "Av Brasil (X) Cidade Brasilia",
+    "route": "1524_0"
+  },
+  "41|1128": {
+    "real_number": "1216_0",
+    "stop": "Av Brasil (X) Cidade Belo Horizonte",
+    "route": "1216_0"
+  },
+  "41|1140": {
+    "real_number": "1524_0",
+    "stop": "Av Cidade Lisboa (X) Cidade Covilhã",
+    "route": "1524_0"
+  },
+  "41|1168": {
+    "real_number": "1217_0",
+    "stop": "Av Salgueiro Maia (Supermercado)",
+    "route": "1217_0"
+  },
+  "41|1142": {
+    "real_number": "1523_0",
+    "stop": "Estr Paço d ' Arcos 167",
+    "route": "1523_0"
+  },
+  "41|1240": {
+    "real_number": "1616_0",
+    "stop": "Taguspark (Frente Novo Banco)",
+    "route": "1616_0"
+  },
+  "41|1871": {
+    "real_number": "1614_0",
+    "stop": "R Prof Joaquim Fontes 26 A",
+    "route": "1614_0"
+  },
+  "41|1374": {
+    "real_number": "1614_1",
+    "stop": "Portela de Sintra (Estação) P11 Entrada Sul",
+    "route": "1614_1"
+  },
+  "41|817": {
+    "real_number": "1226_0",
+    "stop": "Av Capitão António Gomes Rocha 8",
+    "route": "1226_0"
+  },
+  "41|326": {
+    "real_number": "1236_0",
+    "stop": "Monte Abraão (Estação) P1",
+    "route": "1236_0"
+  },
+  "41|1800": {
+    "real_number": "1228_0",
+    "stop": "Av 25 Abril 18B",
+    "route": "1228_0"
+  },
+  "41|1174": {
+    "real_number": "1512_0",
+    "stop": "R Timor 2",
+    "route": "1512_0"
+  },
+  "41|1187": {
+    "real_number": "1716_0",
+    "stop": "Av Elias Garcia 219",
+    "route": "1716_0"
+  },
+  "41|1809": {
+    "real_number": "1230_0",
+    "stop": "Av Elias Garcia 222A",
+    "route": "1230_0"
+  },
+  "41|1801": {
+    "real_number": "1229_0",
+    "stop": "R Prof D Sousa Martins 8",
+    "route": "1229_0"
+  },
+  "41|812": {
+    "real_number": "1229_0",
+    "stop": "R Camélias 12",
+    "route": "1229_0"
+  },
+  "41|813": {
+    "real_number": "1230_0",
+    "stop": "R Aquário Mirante fte B4",
+    "route": "1230_0"
+  },
+  "41|1130": {
+    "real_number": "1516_0",
+    "stop": "Av Gen Humberto Delgado 17",
+    "route": "1516_0"
+  },
+  "41|1811": {
+    "real_number": "1228_0",
+    "stop": "Estr Portela (Supermercado)",
+    "route": "1228_0"
+  },
+  "41|1306": {
+    "real_number": "1230_0",
+    "stop": "R Ruy Gameiro (Pcta José Malhoa)",
+    "route": "1230_0"
+  },
+  "41|1343": {
+    "real_number": "1720_0",
+    "stop": "Pendão (Bica Costa)",
+    "route": "1720_0"
+  },
+  "41|1888": {
+    "real_number": "1251_0",
+    "stop": "Estr de Mem Martins 260",
+    "route": "1251_0"
+  },
+  "41|1887": {
+    "real_number": "1625_1",
+    "stop": "R do Coudel 6 (Cruzeiro)",
+    "route": "1625_1"
+  },
+  "41|1217": {
+    "real_number": "1625_1",
+    "stop": "Estr Mem Martins 164 (Poço Novo)",
+    "route": "1625_1"
+  },
+  "41|1876": {
+    "real_number": "1252_0",
+    "stop": "Av Conde Sucena (X) Av de Cascais",
+    "route": "1252_0"
+  },
+  "41|1729": {
+    "real_number": "1234_0",
+    "stop": "R do Forno 33",
+    "route": "1234_0"
+  },
+  "41|1721": {
+    "real_number": "1234_0",
+    "stop": "Av D António Nabais (X) R Boavista",
+    "route": "1234_0"
+  },
+  "41|738": {
+    "real_number": "1235_0",
+    "stop": "Av Joaquim Silva (Fonte Pedra)",
+    "route": "1235_0"
+  },
+  "41|1302": {
+    "real_number": "1240_0",
+    "stop": "R Ant Silva e Castro 1 (Jd Plátanos)",
+    "route": "1240_0"
+  },
+  "42|1008": {
+    "real_number": "2626_0",
+    "stop": "Estr Mafra (Supermercado)",
+    "route": "2626_0"
+  },
+  "41|1884": {
+    "real_number": "1249_0",
+    "stop": "Av Aviação Portuguesa (Escola)",
+    "route": "1249_0"
+  },
+  "41|1385": {
+    "real_number": "1250_0",
+    "stop": "Av Dr Brandão Vasconcelos 135",
+    "route": "1250_0"
+  },
+  "41|544": {
+    "real_number": "1242_0",
+    "stop": "Almoçageme (Mercado)",
+    "route": "1242_0"
+  },
+  "41|1376": {
+    "real_number": "1241_0",
+    "stop": "Av Bombeiros Voluntários 42",
+    "route": "1241_0"
+  },
+  "41|1730": {
+    "real_number": "1253_0",
+    "stop": "Av Bombeiros Voluntários (Correios)",
+    "route": "1253_0"
+  },
+  "41|1880": {
+    "real_number": "1254_0",
+    "stop": "Av Amílcar Augusto Gil (X) R da Nora",
+    "route": "1254_0"
+  },
+  "41|1380": {
+    "real_number": "1241_0",
+    "stop": "Av Nunes de Carvalho -term Electrico",
+    "route": "1241_0"
+  },
+  "41|1215": {
+    "real_number": "1624_1",
+    "stop": "Av Nunes de Carvalho 5",
+    "route": "1624_1"
+  },
+  "41|1292": {
+    "real_number": "1254_0",
+    "stop": "Av Desidério Cambournac 1",
+    "route": "1254_0"
+  },
+  "41|747": {
+    "real_number": "1242_0",
+    "stop": "Av 19 Maio (X) R 1º Maio",
+    "route": "1242_0"
+  },
+  "41|1389": {
+    "real_number": "1254_0",
+    "stop": "R Dr Ant Brandão Vasconcelois 31",
+    "route": "1254_0"
+  },
+  "41|1409": {
+    "real_number": "1248_0",
+    "stop": "Av Luís Aug Colares 108 (Lg Marcelino)",
+    "route": "1248_0"
+  },
+  "41|814": {
+    "real_number": "1632_0",
+    "stop": "Av General Humberto Delgado 4",
+    "route": "1632_0"
+  },
+  "41|540": {
+    "real_number": "1632_0",
+    "stop": "EN 247 (X) Ral",
+    "route": "1632_0"
+  },
+  "41|1210": {
+    "real_number": "1633_1",
+    "stop": "EN 247 (X) R Lugar do Mouro",
+    "route": "1633_1"
+  },
+  "41|1400": {
+    "real_number": "1245_0",
+    "stop": "Av 29 Agosto (Bombas)",
+    "route": "1245_0"
+  },
+  "42|214": {
+    "real_number": "2632_0",
+    "stop": "Av Lisboa 80",
+    "route": "2632_0"
+  },
+  "41|1298": {
+    "real_number": "1508_0",
+    "stop": "Estr Parque (X) Aruil",
+    "route": "1508_0"
+  },
+  "41|1113": {
+    "real_number": "1517_0",
+    "stop": "Av Timor 98",
+    "route": "1517_0"
+  },
+  "41|1235": {
+    "real_number": "1245_0",
+    "stop": "R Nª Srª Consolação 1 (Csl Ermidas)",
+    "route": "1245_0"
+  },
+  "41|1401": {
+    "real_number": "1245_0",
+    "stop": "Largo da Fonte 1",
+    "route": "1245_0"
+  },
+  "41|1377": {
+    "real_number": "1248_0",
+    "stop": "Estr Madre Deus (Centro de Jardinagem)",
+    "route": "1248_0"
+  },
+  "41|1236": {
+    "real_number": "1247_0",
+    "stop": "R Padre Amaro Teixeira Azevedo 30",
+    "route": "1247_0"
+  },
+  "41|1408": {
+    "real_number": "1250_0",
+    "stop": "Caminho do Murtal (Centro de Saúde)",
+    "route": "1250_0"
+  },
+  "41|1404": {
+    "real_number": "1249_0",
+    "stop": "Av Moinhos do Arneiro Frente 4",
+    "route": "1249_0"
+  },
+  "41|1228": {
+    "real_number": "1249_0",
+    "stop": "Estr de Santa Maria 122",
+    "route": "1249_0"
+  },
+  "41|1874": {
+    "real_number": "1252_0",
+    "stop": "Estr Ch Meninos 10 (Bonsai)",
+    "route": "1252_0"
+  },
+  "41|1230": {
+    "real_number": "1626_0",
+    "stop": "Estr de Chão de Meninos 9",
+    "route": "1626_0"
+  },
+  "41|1731": {
+    "real_number": "1253_0",
+    "stop": "Estr Cabo da Roca (Casa do Moinho)",
+    "route": "1253_0"
+  },
+  "41|1225": {
+    "real_number": "1624_1",
+    "stop": "Estr do Cabo da Roca (X) Ursa",
+    "route": "1624_1"
+  },
+  "41|1723": {
+    "real_number": "1253_0",
+    "stop": "R Alfredo da Costa 57",
+    "route": "1253_0"
+  },
+  "41|1199": {
+    "real_number": "1255_0",
+    "stop": "Av 1 Dezembro (X) Trav Sul",
+    "route": "1255_0"
+  },
+  "41|1195": {
+    "real_number": "1512_0",
+    "stop": "Av Marquês Pombal 35",
+    "route": "1512_0"
+  },
+  "41|1133": {
+    "real_number": "1255_0",
+    "stop": "Av 25 Abril 95",
+    "route": "1255_0"
+  },
+  "41|1166": {
+    "real_number": "1510_0",
+    "stop": "Fte Palácio Queluz",
+    "route": "1510_0"
+  },
+  "41|1179": {
+    "real_number": "1717_0",
+    "stop": "Av C Almeida Araujo (Jta Freguesia)",
+    "route": "1717_0"
+  },
+  "41|1159": {
+    "real_number": "1512_0",
+    "stop": "Carregueira (Quartel)",
+    "route": "1512_0"
+  },
+  "41|1349": {
+    "real_number": "1634_0",
+    "stop": "Av da Liberdade Fte 113",
+    "route": "1634_0"
+  },
+  "41|1356": {
+    "real_number": "1719_0",
+    "stop": "Av Lisboa 26D",
+    "route": "1719_0"
+  },
+  "42|2573": {
+    "real_number": "2605_0",
+    "stop": "EN 250 6",
+    "route": "2605_0"
+  },
+  "41|1810": {
+    "real_number": "1527_0",
+    "stop": "Monte Abraão (Estação) P2",
+    "route": "1527_0"
+  },
+  "41|1357": {
+    "real_number": "1525_1",
+    "stop": "Monte Abraão (Estação) P12",
+    "route": "1525_1"
+  },
+  "41|1198": {
+    "real_number": "1601_1",
+    "stop": "Monte Abraão (Estação) P3",
+    "route": "1601_1"
+  },
+  "41|1407": {
+    "real_number": "1613_0",
+    "stop": "R das Flores (X) R Retiro Pacatos",
+    "route": "1613_0"
+  },
+  "41|1387": {
+    "real_number": "1622_0",
+    "stop": "R Álvaro Aug Rodrigues Vilela (Lgo)",
+    "route": "1622_0"
+  },
+  "41|1213": {
+    "real_number": "1627_0",
+    "stop": "R da Boavista 2",
+    "route": "1627_0"
+  },
+  "41|1419": {
+    "real_number": "1631_0",
+    "stop": "R da Boavista 45",
+    "route": "1631_0"
+  },
+  "41|724": {
+    "real_number": "1209_1",
+    "stop": "Av Alfredo da Silva (X) Tabaqueira",
+    "route": "1209_1"
+  },
+  "41|725": {
+    "real_number": "1614_2",
+    "stop": "Av Santa Isabel 1",
+    "route": "1614_2"
+  },
+  "41|1371": {
+    "real_number": "1622_0",
+    "stop": "Av Santa Isabel 1",
+    "route": "1622_0"
+  },
+  "41|1395": {
+    "real_number": "1625_1",
+    "stop": "Av Combatentes (X) Albarraque",
+    "route": "1625_1"
+  },
+  "41|1214": {
+    "real_number": "1631_0",
+    "stop": "Av Combatentes (Abrunheira Park)",
+    "route": "1631_0"
+  },
+  "41|1224": {
+    "real_number": "1624_1",
+    "stop": "Estr Nova 102 (Cerrado da Cruz)",
+    "route": "1624_1"
+  },
+  "41|1219": {
+    "real_number": "1624_1",
+    "stop": "Estr da Ulgueira (X)",
+    "route": "1624_1"
+  },
+  "41|1172": {
+    "real_number": "1715_1",
+    "stop": "Monte Abraão (Estação) P8",
+    "route": "1715_1"
+  },
+  "41|1881": {
+    "real_number": "1248_0",
+    "stop": "Portela de Sintra (Estação) P5 Entrada Norte",
+    "route": "1248_0"
+  },
+  "41|1141": {
+    "real_number": "1218_0",
+    "stop": "Agualva-Cacém (Estação) P9",
+    "route": "1218_0"
+  },
+  "41|726": {
+    "real_number": "1232_0",
+    "stop": "Rio De Mouro (Estação Sul)",
+    "route": "1232_0"
+  },
+  "41|1155": {
+    "real_number": "1513_0",
+    "stop": "Av Eng Duarte Pacheco (Parque)",
+    "route": "1513_0"
+  },
+  "41|823": {
+    "real_number": "1226_0",
+    "stop": "Av Agostinho Neto (X) R Palmira Bastos",
+    "route": "1226_0"
+  },
+  "41|1378": {
+    "real_number": "1629_0",
+    "stop": "Portela de Sintra (Estação) P9 Entrada Sul",
+    "route": "1629_0"
+  },
+  "41|1134": {
+    "real_number": "1516_0",
+    "stop": "R Primeiro de Maio (x) R Navegantes",
+    "route": "1516_0"
+  },
+  "42|2555": {
+    "real_number": "2632_0",
+    "stop": "R Pedro Álvares Cabral 43 (Casal Cambra)",
+    "route": "2632_0"
+  },
+  "41|1388": {
+    "real_number": "1254_0",
+    "stop": "R Marquês Pombal 17",
+    "route": "1254_0"
+  },
+  "41|1886": {
+    "real_number": "1251_0",
+    "stop": "Rio de Mouro (Estação Sul)",
+    "route": "1251_0"
+  },
+  "41|1413": {
+    "real_number": "1205_0",
+    "stop": "Rua Cidade de Loulé (Parque Urbano da Cavaleira)",
+    "route": "1205_0"
+  },
+  "42|251": {
+    "real_number": "2532_0",
+    "stop": "Alverca (Escola Secundária)",
+    "route": "2532_0"
+  },
+  "42|221": {
+    "real_number": "2303_0",
+    "stop": "R Boca Lara 51 (Alverca)",
+    "route": "2303_0"
+  },
+  "42|2508": {
+    "real_number": "2535_0",
+    "stop": "En 10 (X) R Duque Terceira (Sobralinho)",
+    "route": "2535_0"
+  },
+  "42|2779": {
+    "real_number": "2842_0",
+    "stop": "Bairro Paraiso (X) EN10",
+    "route": "2842_0"
+  },
+  "42|2221": {
+    "real_number": "2921_0",
+    "stop": "En 10 (C Futebol) (Vila Franca de Xira)",
+    "route": "2921_0"
+  },
+  "42|2364": {
+    "real_number": "2328_0",
+    "stop": "En 10 7 (Sobralinho)",
+    "route": "2328_0"
+  },
+  "42|2376": {
+    "real_number": "2790_0",
+    "stop": "AV Infante D Pedro 102 (C Comercial)",
+    "route": "2790_0"
+  },
+  "42|723": {
+    "real_number": "2303_0",
+    "stop": "R Liberdade 27 (Bom Sucesso)",
+    "route": "2303_0"
+  },
+  "42|256": {
+    "real_number": "2303_0",
+    "stop": "R Ivone Silva 55 (Arcena)",
+    "route": "2303_0"
+  },
+  "42|260": {
+    "real_number": "2303_0",
+    "stop": "Av Inf D Pedro 107 (Alverca)",
+    "route": "2303_0"
+  },
+  "42|2010": {
+    "real_number": "2926_0",
+    "stop": "R Gen Humberto Delgado (Farmácia)",
+    "route": "2926_0"
+  },
+  "42|2362": {
+    "real_number": "2309_0",
+    "stop": "Estr Á-dos-Loucos (Rotunda)",
+    "route": "2309_0"
+  },
+  "42|2302": {
+    "real_number": "2309_0",
+    "stop": "En 248-4 (A-dos-Bispos)",
+    "route": "2309_0"
+  },
+  "42|2011": {
+    "real_number": "2308_0",
+    "stop": "Estr Subserra (Infantário)",
+    "route": "2308_0"
+  },
+  "42|2217": {
+    "real_number": "2310_0",
+    "stop": "Estrada da Vala do Carregado",
+    "route": "2310_0"
+  },
+  "42|2016": {
+    "real_number": "2331_0",
+    "stop": "R Alves Redol 113",
+    "route": "2331_0"
+  },
+  "42|2015": {
+    "real_number": "2315_0",
+    "stop": "R C Gulbenkian (X) J Veríssimo",
+    "route": "2315_0"
+  },
+  "42|2407": {
+    "real_number": "2317_0",
+    "stop": "R 25 Abril 1 (Sta Eulália)",
+    "route": "2317_0"
+  },
+  "42|2771": {
+    "real_number": "2797_2",
+    "stop": "R Laura Alves 97 (Casalinho)",
+    "route": "2797_2"
+  },
+  "42|264": {
+    "real_number": "2537_0",
+    "stop": "Estr Caniços 30",
+    "route": "2537_0"
+  },
+  "42|2765": {
+    "real_number": "2797_1",
+    "stop": "Av S Pereira Gomes (X) R Barbosa Bocage",
+    "route": "2797_1"
+  },
+  "42|267": {
+    "real_number": "2327_0",
+    "stop": "Av S Pereira Gomes (X) Estr Olival Fora",
+    "route": "2327_0"
+  },
+  "42|2403": {
+    "real_number": "2318_0",
+    "stop": "Póvoa Sta Iria (Estação) Posição 3",
+    "route": "2318_0"
+  },
+  "42|287": {
+    "real_number": "2318_0",
+    "stop": "R Fernando Pessoa 8 (Forte Casa)",
+    "route": "2318_0"
+  },
+  "42|2008": {
+    "real_number": "2335_0",
+    "stop": "R 2ª Fase 40 (Qta Piedade)",
+    "route": "2335_0"
+  },
+  "42|2368": {
+    "real_number": "2328_0",
+    "stop": "Av D Vic Af Valente (X) R Américo Costa",
+    "route": "2328_0"
+  },
+  "42|2710": {
+    "real_number": "2794_0",
+    "stop": "Lgo Forte Casa 19",
+    "route": "2794_0"
+  },
+  "42|2012": {
+    "real_number": "2331_0",
+    "stop": "R António Lúcio Batista 4 (C Saúde)",
+    "route": "2331_0"
+  },
+  "42|2405": {
+    "real_number": "2790_0",
+    "stop": "En 10 (X) B Bolonha",
+    "route": "2790_0"
+  },
+  "42|2700": {
+    "real_number": "2794_0",
+    "stop": "R Sto ant Bolonha 61",
+    "route": "2794_0"
+  },
+  "42|2002": {
+    "real_number": "2336_0",
+    "stop": "R M Carlota Oliveira 105",
+    "route": "2336_0"
+  },
+  "42|2705": {
+    "real_number": "2794_0",
+    "stop": "R Franc Per Junior (X) Pcta Alf Cunha",
+    "route": "2794_0"
+  },
+  "42|2216": {
+    "real_number": "2310_0",
+    "stop": "R Abel Salazar 22",
+    "route": "2310_0"
+  },
+  "42|2704": {
+    "real_number": "2792_0",
+    "stop": "Estr Alfarrobeira 4 (Verdelha Baixo)",
+    "route": "2792_0"
+  },
+  "42|261": {
+    "real_number": "2532_0",
+    "stop": "Morgado (X) Qta Índias",
+    "route": "2532_0"
+  },
+  "42|263": {
+    "real_number": "2537_0",
+    "stop": "R Mov Forças Armadas 1 (Quintanilho)",
+    "route": "2537_0"
+  },
+  "42|2776": {
+    "real_number": "2797_1",
+    "stop": "Quintanilho (X) R Fernando Lopes Graça",
+    "route": "2797_1"
+  },
+  "42|2413": {
+    "real_number": "2533_0",
+    "stop": "R Prof Egas Moniz (X) Beco Ferreiros",
+    "route": "2533_0"
+  },
+  "42|262": {
+    "real_number": "2532_0",
+    "stop": "R Prof Egas Moniz (X) Beco Ferreiros",
+    "route": "2532_0"
+  },
+  "42|2371": {
+    "real_number": "2790_0",
+    "stop": "En 10 (X) B Funchal",
+    "route": "2790_0"
+  },
+  "42|2113": {
+    "real_number": "2539_0",
+    "stop": "En 10 (Supermercado)",
+    "route": "2539_0"
+  },
+  "42|2020": {
+    "real_number": "2926_0",
+    "stop": "Castanheira do Ribatejo (Estação) P2",
+    "route": "2926_0"
+  },
+  "42|271": {
+    "real_number": "2303_0",
+    "stop": "Alverca (Estação) Posição 3",
+    "route": "2303_0"
+  },
+  "42|2713": {
+    "real_number": "2841_0",
+    "stop": "Bom Sucesso (Lgo. Catarina Eufémia 51)",
+    "route": "2841_0"
+  },
+  "42|2007": {
+    "real_number": "1449",
+    "stop": "Rua 20 de Maio de 1449",
+    "route": "2301_0"
+  },
+  "42|2303": {
+    "real_number": "2306_0",
+    "stop": "Avenida Infante Dom Pedro 47",
+    "route": "2306_0"
+  },
+  "42|2220": {
+    "real_number": "2927_0",
+    "stop": "Estrada Monte Gordo Frente (X) Rua da República",
+    "route": "2927_0"
+  },
+  "42|2369": {
+    "real_number": "2921_0",
+    "stop": "R dos Lameiros 4",
+    "route": "2921_0"
+  },
+  "42|1153": {
+    "real_number": "2906_0",
+    "stop": "R Principal 17 (Escola) (Assenta)",
+    "route": "2906_0"
+  },
+  "42|2215": {
+    "real_number": "2928_0",
+    "stop": "Rua Irene Lisboa (X) Travessa do Externato",
+    "route": "2928_0"
+  }
+}
